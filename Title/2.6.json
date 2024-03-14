@@ -1,0 +1,5082 @@
+[
+  {
+    "id": "0x02500000000062E7",
+    "name": {
+      "en_US": "Heroic Bastet",
+      "es_MX": "Bastet heroica",
+      "pt_BR": "Bastet Heroica",
+      "de_DE": "Heroische Bastet",
+      "en_GB": "Heroic Bastet",
+      "es_ES": "Bastet heroica",
+      "fr_FR": "Bastet intrépide",
+      "it_IT": "Bastet Eroica",
+      "pl_PL": "Heroiczna Bastet",
+      "pt_PT": "Bastet Heroica",
+      "ru_RU": "Героическая Бастет",
+      "tr_TR": "Kahraman Bastet",
+      "ko_KR": "영웅 바스테트",
+      "zh_TW": "英雄芭絲特",
+      "zh_CN": "精英猫神",
+      "ja_JP": "ヒロイック「バステト」",
+      "th_TH": "บาสเต็ตระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062E8",
+    "name": {
+      "en_US": "Epic Bastet",
+      "es_MX": "Bastet épica",
+      "pt_BR": "Bastet Épica",
+      "de_DE": "Epische Bastet",
+      "en_GB": "Epic Bastet",
+      "es_ES": "Bastet épica",
+      "fr_FR": "Bastet épique",
+      "it_IT": "Bastet Epica",
+      "pl_PL": "Epicka Bastet",
+      "pt_PT": "Bastet Épica",
+      "ru_RU": "Эпическая Бастет",
+      "tr_TR": "Epik Bastet",
+      "ko_KR": "특급 바스테트",
+      "zh_TW": "史詩芭絲特",
+      "zh_CN": "史诗猫神",
+      "ja_JP": "エピック「バステト」",
+      "th_TH": "บาสเต็ตระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062EA",
+    "name": {
+      "en_US": "Outlaw",
+      "es_MX": "Forajida",
+      "pt_BR": "Fora da Lei",
+      "de_DE": "Gesetzloser",
+      "en_GB": "Outlaw",
+      "es_ES": "Forajida",
+      "fr_FR": "Hors-la-loi",
+      "it_IT": "Fuorilegge",
+      "pl_PL": "Banitka",
+      "pt_PT": "Fora da Lei",
+      "ru_RU": "Разбойница",
+      "tr_TR": "Kanunsuz",
+      "ko_KR": "무법자",
+      "zh_TW": "亡命之徒",
+      "zh_CN": "狂徒",
+      "ja_JP": "アウトロー",
+      "th_TH": "เอาท์ลอว์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062EB",
+    "name": {
+      "en_US": "Heroic Outlaw",
+      "es_MX": "Forajida heroica",
+      "pt_BR": "Fora da Lei Heroica",
+      "de_DE": "Heroische Gesetzlose",
+      "en_GB": "Heroic Outlaw",
+      "es_ES": "Forajida heroica",
+      "fr_FR": "Hors-la-loi intrépide",
+      "it_IT": "Fuorilegge Eroica",
+      "pl_PL": "Heroiczna banitka",
+      "pt_PT": "Fora da Lei Heroica",
+      "ru_RU": "Героическая разбойница",
+      "tr_TR": "Kahraman Kanunsuz",
+      "ko_KR": "영웅 무법자",
+      "zh_TW": "英雄亡命之徒",
+      "zh_CN": "精英狂徒",
+      "ja_JP": "ヒロイック「アウトロー」",
+      "th_TH": "เอาท์ลอว์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062EC",
+    "name": {
+      "en_US": "Epic Outlaw",
+      "es_MX": "Forajida épica",
+      "pt_BR": "Fora da Lei Épica",
+      "de_DE": "Epische Gesetzlose",
+      "en_GB": "Epic Outlaw",
+      "es_ES": "Forajida épica",
+      "fr_FR": "Hors-la-loi épique",
+      "it_IT": "Fuorilegge Epica",
+      "pl_PL": "Epicka banitka",
+      "pt_PT": "Fora da Lei Épica",
+      "ru_RU": "Эпическая разбойница",
+      "tr_TR": "Epik Kanunsuz",
+      "ko_KR": "특급 무법자",
+      "zh_TW": "史詩亡命之徒",
+      "zh_CN": "史诗狂徒",
+      "ja_JP": "エピック「アウトロー」",
+      "th_TH": "เอาท์ลอว์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062ED",
+    "name": {
+      "en_US": "Renegade",
+      "es_MX": "Renegado",
+      "pt_BR": "Renegado",
+      "de_DE": "Abtrünniger",
+      "en_GB": "Renegade",
+      "es_ES": "Renegado",
+      "fr_FR": "Renégat",
+      "it_IT": "Rinnegato",
+      "pl_PL": "Renegat",
+      "pt_PT": "Renegado",
+      "ru_RU": "Отступник",
+      "tr_TR": "Firari",
+      "ko_KR": "변절자",
+      "zh_TW": "背叛者",
+      "zh_CN": "弃暗者",
+      "ja_JP": "レネゲード",
+      "th_TH": "ผู้หนีทัพ"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062EE",
+    "name": {
+      "en_US": "Heroic Renegade",
+      "es_MX": "Renegado heroico",
+      "pt_BR": "Renegado Heroico",
+      "de_DE": "Heroischer Abtrünniger",
+      "en_GB": "Heroic Renegade",
+      "es_ES": "Renegado heroico",
+      "fr_FR": "Renégat intrépide",
+      "it_IT": "Rinnegato Eroico",
+      "pl_PL": "Heroiczny renegat",
+      "pt_PT": "Renegado Heroico",
+      "ru_RU": "Героический отступник",
+      "tr_TR": "Kahraman Firari",
+      "ko_KR": "영웅 변절자",
+      "zh_TW": "英雄背叛者",
+      "zh_CN": "精英弃暗者",
+      "ja_JP": "ヒロイック「レネゲード」",
+      "th_TH": "ผู้หนีทัพระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062EF",
+    "name": {
+      "en_US": "Epic Renegade",
+      "es_MX": "Renegado épico",
+      "pt_BR": "Renegado Épico",
+      "de_DE": "Epischer Abtrünniger",
+      "en_GB": "Epic Renegade",
+      "es_ES": "Renegado épico",
+      "fr_FR": "Renégat épique",
+      "it_IT": "Rinnegato Epico",
+      "pl_PL": "Epicki renegat",
+      "pt_PT": "Renegado Épico",
+      "ru_RU": "Эпический отступник",
+      "tr_TR": "Epik Firari",
+      "ko_KR": "특급 변절자",
+      "zh_TW": "史詩背叛者",
+      "zh_CN": "史诗弃暗者",
+      "ja_JP": "エピック「レネゲード」",
+      "th_TH": "ผู้หนีทัพระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F0",
+    "name": {
+      "en_US": "War Machine",
+      "es_MX": "Máquina de guerra",
+      "pt_BR": "Máquina de Guerra",
+      "de_DE": "Kriegsmaschine",
+      "en_GB": "War Machine",
+      "es_ES": "Máquina de guerra",
+      "fr_FR": "Machine de guerre",
+      "it_IT": "Macchina da Guerra",
+      "pl_PL": "Machina wojenna",
+      "pt_PT": "Máquina de Guerra",
+      "ru_RU": "Боевая машина",
+      "tr_TR": "Savaş Makinesi",
+      "ko_KR": "전쟁 기계",
+      "zh_TW": "戰爭機器",
+      "zh_CN": "战争机器",
+      "ja_JP": "ウォー・マシン",
+      "th_TH": "เครื่องจักรสงคราม"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F1",
+    "name": {
+      "en_US": "Heroic War Machine",
+      "es_MX": "Máquina de guerra heroica",
+      "pt_BR": "Máquina de Guerra Heroica",
+      "de_DE": "Heroische Kriegsmaschine",
+      "en_GB": "Heroic War Machine",
+      "es_ES": "Máquina de guerra heroica",
+      "fr_FR": "Machine de guerre intrépide",
+      "it_IT": "Macchina da Guerra Eroica",
+      "pl_PL": "Heroiczna machina wojenna",
+      "pt_PT": "Máquina de Guerra Heroica",
+      "ru_RU": "Героическая боевая машина",
+      "tr_TR": "Kahraman Savaş Makinesi",
+      "ko_KR": "영웅 전쟁 기계",
+      "zh_TW": "英雄戰爭機器",
+      "zh_CN": "精英战争机器",
+      "ja_JP": "ヒロイック「ウォー・マシン」",
+      "th_TH": "เครื่องจักรสงครามระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F2",
+    "name": {
+      "en_US": "Epic Monk",
+      "es_MX": "Monje épico",
+      "pt_BR": "Monge Épico",
+      "de_DE": "Epischer Mönch",
+      "en_GB": "Epic Monk",
+      "es_ES": "Monje épico",
+      "fr_FR": "Moine épique",
+      "it_IT": "Monaco Epico",
+      "pl_PL": "Epicki mnich",
+      "pt_PT": "Monge Épico",
+      "ru_RU": "Эпический монах",
+      "tr_TR": "Epik Keşiş",
+      "ko_KR": "특급 수도사",
+      "zh_TW": "史詩僧侶",
+      "zh_CN": "史诗僧侣",
+      "ja_JP": "エピック「僧侶」",
+      "th_TH": "นักบวชระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F3",
+    "name": {
+      "en_US": "Squire",
+      "es_MX": "Escudera",
+      "pt_BR": "Escudeira",
+      "de_DE": "Schildknappin",
+      "en_GB": "Squire",
+      "es_ES": "Escudera",
+      "fr_FR": "Écuyère",
+      "it_IT": "Scudiera",
+      "pl_PL": "Giermek",
+      "pt_PT": "Escudeira",
+      "ru_RU": "Оруженосец",
+      "tr_TR": "Yaver",
+      "ko_KR": "종자",
+      "zh_TW": "騎士隨從",
+      "zh_CN": "侍从",
+      "ja_JP": "スクワイア",
+      "th_TH": "เด็กฝึก"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F4",
+    "name": {
+      "en_US": "Heroic Squire",
+      "es_MX": "Escudera heroica",
+      "pt_BR": "Escudeira Heroica",
+      "de_DE": "Heroische Schildknappin",
+      "en_GB": "Heroic Squire",
+      "es_ES": "Escudera heroica",
+      "fr_FR": "Écuyère intrépide",
+      "it_IT": "Scudiera Eroica",
+      "pl_PL": "Heroiczny giermek",
+      "pt_PT": "Escudeira Heroica",
+      "ru_RU": "Героический оруженосец",
+      "tr_TR": "Kahraman Yaver",
+      "ko_KR": "영웅 종자",
+      "zh_TW": "英雄騎士隨從",
+      "zh_CN": "精英侍从",
+      "ja_JP": "ヒロイック「スクワイア」",
+      "th_TH": "เด็กฝึกระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F5",
+    "name": {
+      "en_US": "Epic Squire",
+      "es_MX": "Escudera épica",
+      "pt_BR": "Escudeira Épica",
+      "de_DE": "Epische Schildknappin",
+      "en_GB": "Epic Squire",
+      "es_ES": "Escudera épica",
+      "fr_FR": "Écuyère épique",
+      "it_IT": "Scudiera Epica",
+      "pl_PL": "Epicki giermek",
+      "pt_PT": "Escudeira Épica",
+      "ru_RU": "Эпический оруженосец",
+      "tr_TR": "Epik Yaver",
+      "ko_KR": "특급 종자",
+      "zh_TW": "史詩騎士隨從",
+      "zh_CN": "史诗侍从",
+      "ja_JP": "エピック「スクワイア」",
+      "th_TH": "เด็กฝึกระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F6",
+    "name": {
+      "en_US": "Gunslinger",
+      "es_MX": "Pistolero",
+      "pt_BR": "Pistoleiro",
+      "de_DE": "Knarren",
+      "en_GB": "Gunslinger",
+      "es_ES": "Pistolero",
+      "fr_FR": "Pistolero",
+      "it_IT": "Pistolero",
+      "pl_PL": "Rewolwerowiec",
+      "pt_PT": "Pistoleiro",
+      "ru_RU": "Стрелок",
+      "tr_TR": "Silahşor",
+      "ko_KR": "총잡이",
+      "zh_TW": "神槍手",
+      "zh_CN": "枪手",
+      "ja_JP": "ガンスリンガー",
+      "th_TH": "นักแม่นปืน"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F7",
+    "name": {
+      "en_US": "Heroic Gunslinger",
+      "es_MX": "Pistolero heroico",
+      "pt_BR": "Pistoleiro Heroico",
+      "de_DE": "Heroischer Revolverheld",
+      "en_GB": "Heroic Gunslinger",
+      "es_ES": "Pistolero heroico",
+      "fr_FR": "Pistolero intrépide",
+      "it_IT": "Pistolero Eroico",
+      "pl_PL": "Heroiczny rewolwerowiec",
+      "pt_PT": "Pistoleiro Heroico",
+      "ru_RU": "Героический стрелок",
+      "tr_TR": "Kahraman Silahşor",
+      "ko_KR": "영웅 총잡이",
+      "zh_TW": "英雄神槍手",
+      "zh_CN": "精英枪手",
+      "ja_JP": "ヒロイック「ガンスリンガー」",
+      "th_TH": "นักแม่นปืนระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F8",
+    "name": {
+      "en_US": "Epic Gunslinger",
+      "es_MX": "Pistolero épico",
+      "pt_BR": "Pistoleiro Épico",
+      "de_DE": "Epischer Revolverheld",
+      "en_GB": "Epic Gunslinger",
+      "es_ES": "Pistolero épico",
+      "fr_FR": "Pistolero épique",
+      "it_IT": "Pistolero Epico",
+      "pl_PL": "Epicki rewolwerowiec",
+      "pt_PT": "Pistoleiro Épico",
+      "ru_RU": "Эпический стрелок",
+      "tr_TR": "Epik Silahşor",
+      "ko_KR": "특급 총잡이",
+      "zh_TW": "史詩神槍手",
+      "zh_CN": "史诗枪手",
+      "ja_JP": "エピック「ガンスリンガー」",
+      "th_TH": "นักแม่นปืนระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062F9",
+    "name": {
+      "en_US": "MEKA Ace",
+      "es_MX": "As de MEKA",
+      "pt_BR": "MEKA Ás",
+      "de_DE": "MEKA-Ass",
+      "en_GB": "MEKA Ace",
+      "es_ES": "As MEKA",
+      "fr_FR": "As MEKA",
+      "it_IT": "Asso MEKA",
+      "pl_PL": "As oddziału MEKA",
+      "pt_PT": "MEKA Ás",
+      "ru_RU": "Пилот мехи",
+      "tr_TR": "MEKA Ası",
+      "ko_KR": "MEKA 에이스",
+      "zh_TW": "機甲部隊王牌",
+      "zh_CN": "机甲王牌",
+      "ja_JP": "メカ・エース",
+      "th_TH": "MEKA เอซ"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062FA",
+    "name": {
+      "en_US": "Heroic MEKA Ace",
+      "es_MX": "As de MEKA heroica",
+      "pt_BR": "MEKA Ás Heroica",
+      "de_DE": "Heroisches MEKA-Ass",
+      "en_GB": "Heroic MEKA Ace",
+      "es_ES": "As MEKA heroica",
+      "fr_FR": "As MEKA intrépide",
+      "it_IT": "Asso MEKA Eroico",
+      "pl_PL": "Heroiczny as oddziału MEKA",
+      "pt_PT": "MEKA Ás Heroica",
+      "ru_RU": "Героический пилот мехи",
+      "tr_TR": "Kahraman MEKA Ası",
+      "ko_KR": "영웅 MEKA 에이스",
+      "zh_TW": "英雄機甲部隊王牌",
+      "zh_CN": "精英机甲王牌",
+      "ja_JP": "ヒロイック「メカ・エース」",
+      "th_TH": "MEKA เอซระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062FB",
+    "name": {
+      "en_US": "Epic MEKA Ace",
+      "es_MX": "As de MEKA épica",
+      "pt_BR": "MEKA Ás Épica",
+      "de_DE": "Episches MEKA-Ass",
+      "en_GB": "Epic MEKA Ace",
+      "es_ES": "As MEKA épica",
+      "fr_FR": "As MEKA épique",
+      "it_IT": "Asso MEKA Epico",
+      "pl_PL": "Epicki as oddziału MEKA",
+      "pt_PT": "MEKA Ás Épica",
+      "ru_RU": "Эпический пилот мехи",
+      "tr_TR": "Epik MEKA Ası",
+      "ko_KR": "특급 MEKA 에이스",
+      "zh_TW": "史詩機甲部隊王牌",
+      "zh_CN": "史诗机甲王牌",
+      "ja_JP": "エピック「メカ・エース」",
+      "th_TH": "MEKA เอซระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062FC",
+    "name": {
+      "en_US": "Mastermind",
+      "es_MX": "Cerebro",
+      "pt_BR": "Idealizador",
+      "de_DE": "Drahtzieher",
+      "en_GB": "Mastermind",
+      "es_ES": "Dirigente",
+      "fr_FR": "Cerveau",
+      "it_IT": "Genio Criminale",
+      "pl_PL": "Intrygant",
+      "pt_PT": "Idealizador",
+      "ru_RU": "Зачинщик",
+      "tr_TR": "Üst Akıl",
+      "ko_KR": "흑막",
+      "zh_TW": "陰謀家",
+      "zh_CN": "首脑",
+      "ja_JP": "マスターマインド",
+      "th_TH": "ตัวการใหญ่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062FD",
+    "name": {
+      "en_US": "Heroic Mastermind",
+      "es_MX": "Cerebro heroico",
+      "pt_BR": "Idealizador Heroico",
+      "de_DE": "Heroischer Drahtzieher",
+      "en_GB": "Heroic Mastermind",
+      "es_ES": "Dirigente heroico",
+      "fr_FR": "Cerveau intrépide",
+      "it_IT": "Genio Criminale Eroico",
+      "pl_PL": "Heroiczny intrygant",
+      "pt_PT": "Idealizador Heroico",
+      "ru_RU": "Героический зачинщик",
+      "tr_TR": "Kahraman Üst Akıl",
+      "ko_KR": "영웅 흑막",
+      "zh_TW": "英雄陰謀家",
+      "zh_CN": "精英首脑",
+      "ja_JP": "ヒロイック「マスターマインド」",
+      "th_TH": "ตัวการใหญ่ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x02500000000062FE",
+    "name": {
+      "en_US": "Epic Mastermind",
+      "es_MX": "Cerebro épico",
+      "pt_BR": "Idealizador Épico",
+      "de_DE": "Epischer Drahtzieher",
+      "en_GB": "Epic Mastermind",
+      "es_ES": "Dirigente épico",
+      "fr_FR": "Cerveau épique",
+      "it_IT": "Genio Criminale Epico",
+      "pl_PL": "Epicki intrygant",
+      "pt_PT": "Idealizador Épico",
+      "ru_RU": "Эпический зачинщик",
+      "tr_TR": "Epik Üst Akıl",
+      "ko_KR": "특급 흑막",
+      "zh_TW": "史詩陰謀家",
+      "zh_CN": "史诗首脑",
+      "ja_JP": "エピック「マスターマインド」",
+      "th_TH": "ตัวการใหญ่ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006302",
+    "name": {
+      "en_US": "Reflection",
+      "es_MX": "Reflexión",
+      "pt_BR": "Reflexão",
+      "de_DE": "Spiegelbild",
+      "en_GB": "Reflection",
+      "es_ES": "Reflejo",
+      "fr_FR": "Reflet",
+      "it_IT": "Riflesso",
+      "pl_PL": "Odbicie",
+      "pt_PT": "Reflexão",
+      "ru_RU": "Отражение",
+      "tr_TR": "Yansıma",
+      "ko_KR": "모방자",
+      "zh_TW": "倒影",
+      "zh_CN": "倒影",
+      "ja_JP": "リフレクション",
+      "th_TH": "เงาสะท้อน"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006303",
+    "name": {
+      "en_US": "Heroic Reflection",
+      "es_MX": "Reflexión heroicoa",
+      "pt_BR": "Reflexão Heroica",
+      "de_DE": "Heroisches Spiegelbild",
+      "en_GB": "Heroic Reflection",
+      "es_ES": "Reflejo heroico",
+      "fr_FR": "Reflet intrépide",
+      "it_IT": "Riflesso Eroico",
+      "pl_PL": "Heroiczne odbicie",
+      "pt_PT": "Reflexão Heroica",
+      "ru_RU": "Героическое отражение",
+      "tr_TR": "Kahraman Yankı",
+      "ko_KR": "영웅 모방자",
+      "zh_TW": "英雄倒影",
+      "zh_CN": "精英倒影",
+      "ja_JP": "ヒロイック「リフレクション」",
+      "th_TH": "เงาสะท้อนระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006304",
+    "name": {
+      "en_US": "Epic Reflection",
+      "es_MX": "Reflejo épico",
+      "pt_BR": "Reflexão Épica",
+      "de_DE": "Episches Spiegelbild",
+      "en_GB": "Epic Reflection",
+      "es_ES": "Reflejo épico",
+      "fr_FR": "Reflet épique",
+      "it_IT": "Riflesso Epico",
+      "pl_PL": "Epickie odbicie",
+      "pt_PT": "Reflexão Épica",
+      "ru_RU": "Эпическое отражение",
+      "tr_TR": "Epik Yankı",
+      "ko_KR": "특급 모방자",
+      "zh_TW": "史詩倒影",
+      "zh_CN": "史诗倒影",
+      "ja_JP": "エピック「リフレクション」",
+      "th_TH": "เงาสะท้อนระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006305",
+    "name": {
+      "en_US": "Cyberninja",
+      "es_MX": "Ciberninja",
+      "pt_BR": "Ninja Cibernético",
+      "de_DE": "Cyberninja",
+      "en_GB": "Cyberninja",
+      "es_ES": "Ciberninja",
+      "fr_FR": "Cyber ninja",
+      "it_IT": "Cyberninja",
+      "pl_PL": "Cyberninja",
+      "pt_PT": "Ninja Cibernético",
+      "ru_RU": "Киберниндзя",
+      "tr_TR": "Siberninja",
+      "ko_KR": "사이버닌자",
+      "zh_TW": "生化忍者",
+      "zh_CN": "机械忍者",
+      "ja_JP": "サイバーニンジャ",
+      "th_TH": "ไซเบอร์นินจา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006306",
+    "name": {
+      "en_US": "Heroic Cyberninja",
+      "es_MX": "Ciberninja heroico",
+      "pt_BR": "Ninja Cibernético Heroico",
+      "de_DE": "Heroischer Cyberninja",
+      "en_GB": "Heroic Cyberninja",
+      "es_ES": "Ciberninja heroico",
+      "fr_FR": "Cyber ninja intrépide",
+      "it_IT": "Cyberninja Eroico",
+      "pl_PL": "Heroiczny cyberninja",
+      "pt_PT": "Ninja Cibernético Heroico",
+      "ru_RU": "Героический киберниндзя",
+      "tr_TR": "Kahraman Siberninja",
+      "ko_KR": "영웅 사이버닌자",
+      "zh_TW": "英雄生化忍者",
+      "zh_CN": "精英机械忍者",
+      "ja_JP": "ヒロイック「サイバーニンジャ」",
+      "th_TH": "ไซเบอร์นินจาระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006307",
+    "name": {
+      "en_US": "Epic Cyberninja",
+      "es_MX": "Ciberninja épico",
+      "pt_BR": "Ninja Cibernético Épico",
+      "de_DE": "Epischer Cyberninja",
+      "en_GB": "Epic Cyberninja",
+      "es_ES": "Ciberninja épico",
+      "fr_FR": "Cyber ninja épique",
+      "it_IT": "Cyberninja Epico",
+      "pl_PL": "Epicki cyberninja",
+      "pt_PT": "Ninja Cibernético Épico",
+      "ru_RU": "Эпический киберниндзя",
+      "tr_TR": "Epik Siberninja",
+      "ko_KR": "특급 사이버닌자",
+      "zh_TW": "史詩生化忍者",
+      "zh_CN": "史诗机械忍者",
+      "ja_JP": "エピック「サイバーニンジャ」",
+      "th_TH": "ไซเบอร์นินจาระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006308",
+    "name": {
+      "en_US": "Archer",
+      "es_MX": "Arquero",
+      "pt_BR": "Arqueiro",
+      "de_DE": "Bogenschütze",
+      "en_GB": "Archer",
+      "es_ES": "Arquero",
+      "fr_FR": "Archer",
+      "it_IT": "Arciere",
+      "pl_PL": "Łucznik",
+      "pt_PT": "Arqueiro",
+      "ru_RU": "Лучник",
+      "tr_TR": "Okçu",
+      "ko_KR": "궁수",
+      "zh_TW": "弓箭手",
+      "zh_CN": "弓箭手",
+      "ja_JP": "射手",
+      "th_TH": "นักธนู"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006309",
+    "name": {
+      "en_US": "Heroic Archer",
+      "es_MX": "Arquero heroico",
+      "pt_BR": "Arqueiro Heroico",
+      "de_DE": "Heroischer Bogenschütze",
+      "en_GB": "Heroic Archer",
+      "es_ES": "Arquero heroico",
+      "fr_FR": "Archer intrépide",
+      "it_IT": "Arciere Eroico",
+      "pl_PL": "Heroiczny łucznik",
+      "pt_PT": "Arqueiro Heroico",
+      "ru_RU": "Героический лучник",
+      "tr_TR": "Kahraman Okçu",
+      "ko_KR": "영웅 궁수",
+      "zh_TW": "英雄弓箭手",
+      "zh_CN": "精英弓箭手",
+      "ja_JP": "ヒロイック「射手」",
+      "th_TH": "นักธนูระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630A",
+    "name": {
+      "en_US": "Epic Archer",
+      "es_MX": "Arquero épico",
+      "pt_BR": "Arqueiro Épico",
+      "de_DE": "Epischer Bogenschütze",
+      "en_GB": "Epic Archer",
+      "es_ES": "Arquero épico",
+      "fr_FR": "Archer épique",
+      "it_IT": "Arciere Epico",
+      "pl_PL": "Epicki łucznik",
+      "pt_PT": "Arqueiro Épico",
+      "ru_RU": "Эпический лучник",
+      "tr_TR": "Epik Okçu",
+      "ko_KR": "특급 궁수",
+      "zh_TW": "史詩弓箭手",
+      "zh_CN": "史诗弓箭手",
+      "ja_JP": "エピック「射手」",
+      "th_TH": "นักธนูระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630B",
+    "name": {
+      "en_US": "Queen",
+      "es_MX": "Reina",
+      "pt_BR": "Rainha",
+      "de_DE": "Königin",
+      "en_GB": "Queen",
+      "es_ES": "Reina",
+      "fr_FR": "Reine",
+      "it_IT": "Regina",
+      "pl_PL": "Królowa",
+      "pt_PT": "Rainha",
+      "ru_RU": "Королева",
+      "tr_TR": "Kraliçe",
+      "ko_KR": "퀸",
+      "zh_TW": "女王",
+      "zh_CN": "女王",
+      "ja_JP": "クイーン",
+      "th_TH": "ควีน"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630C",
+    "name": {
+      "en_US": "Heroic Queen",
+      "es_MX": "Reina heroica",
+      "pt_BR": "Rainha Heroica",
+      "de_DE": "Heroische Königin",
+      "en_GB": "Heroic Queen",
+      "es_ES": "Reina heroica",
+      "fr_FR": "Reine intrépide",
+      "it_IT": "Regina Eroica",
+      "pl_PL": "Heroiczna królowa",
+      "pt_PT": "Rainha Heroica",
+      "ru_RU": "Героическая королева",
+      "tr_TR": "Kahraman Kraliçe",
+      "ko_KR": "영웅 퀸",
+      "zh_TW": "英雄女王",
+      "zh_CN": "精英女王",
+      "ja_JP": "ヒロイック「クイーン」",
+      "th_TH": "ควีนระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630D",
+    "name": {
+      "en_US": "Epic Queen",
+      "es_MX": "Reina épica",
+      "pt_BR": "Rainha Épica",
+      "de_DE": "Epische Königin",
+      "en_GB": "Epic Queen",
+      "es_ES": "Reina épica",
+      "fr_FR": "Reine épique",
+      "it_IT": "Regina Epica",
+      "pl_PL": "Epicka królowa",
+      "pt_PT": "Rainha Épica",
+      "ru_RU": "Эпическая королева",
+      "tr_TR": "Epik Kraliçe",
+      "ko_KR": "특급 퀸",
+      "zh_TW": "史詩女王",
+      "zh_CN": "史诗女王",
+      "ja_JP": "エピック「クイーン」",
+      "th_TH": "ควีนระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630E",
+    "name": {
+      "en_US": "Rat",
+      "es_MX": "Roedor",
+      "pt_BR": "Rato",
+      "de_DE": "Ratte",
+      "en_GB": "Rat",
+      "es_ES": "Rata",
+      "fr_FR": "Artificier",
+      "it_IT": "Ratto",
+      "pl_PL": "Maniak",
+      "pt_PT": "Rato",
+      "ru_RU": "Крыс",
+      "tr_TR": "Fare",
+      "ko_KR": "랫",
+      "zh_TW": "老鼠",
+      "zh_CN": "怪鼠",
+      "ja_JP": "ラット",
+      "th_TH": "หนู"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000630F",
+    "name": {
+      "en_US": "Heroic Rat",
+      "es_MX": "Roedor heroico",
+      "pt_BR": "Rato Heroico",
+      "de_DE": "Heroische Ratte",
+      "en_GB": "Heroic Rat",
+      "es_ES": "Rata heroica",
+      "fr_FR": "Artificier intrépide",
+      "it_IT": "Ratto Eroico",
+      "pl_PL": "Heroiczny maniak",
+      "pt_PT": "Rato Heroico",
+      "ru_RU": "Героический крыс",
+      "tr_TR": "Kahraman Fare",
+      "ko_KR": "영웅 랫",
+      "zh_TW": "英雄老鼠",
+      "zh_CN": "精英怪鼠",
+      "ja_JP": "ヒロイック「ラット」",
+      "th_TH": "หนูระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006310",
+    "name": {
+      "en_US": "Epic Rat",
+      "es_MX": "Roedor épico",
+      "pt_BR": "Rato Épico",
+      "de_DE": "Epische Ratte",
+      "en_GB": "Epic Rat",
+      "es_ES": "Rata épica",
+      "fr_FR": "Artificier épique",
+      "it_IT": "Ratto Epico",
+      "pl_PL": "Epicki maniak",
+      "pt_PT": "Rato Épico",
+      "ru_RU": "Эпический крыс",
+      "tr_TR": "Epik Fare",
+      "ko_KR": "특급 랫",
+      "zh_TW": "史詩老鼠",
+      "zh_CN": "史诗怪鼠",
+      "ja_JP": "エピック「ラット」",
+      "th_TH": "หนูระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006311",
+    "name": {
+      "en_US": "Yokai",
+      "es_MX": "Yokai",
+      "pt_BR": "Yokai",
+      "de_DE": "Yōkai",
+      "en_GB": "Yokai",
+      "es_ES": "Yōkai",
+      "fr_FR": "Yokai",
+      "it_IT": "Yōkai",
+      "pl_PL": "Yōkai",
+      "pt_PT": "Yokai",
+      "ru_RU": "Ёкай",
+      "tr_TR": "Yōkai",
+      "ko_KR": "요괴",
+      "zh_TW": "妖怪",
+      "zh_CN": "妖怪",
+      "ja_JP": "ヨーカイ",
+      "th_TH": "โยไค"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006312",
+    "name": {
+      "en_US": "Heroic Yokai",
+      "es_MX": "Yokai heroica",
+      "pt_BR": "Yokai Heroica",
+      "de_DE": "Heroische Yōkai",
+      "en_GB": "Heroic Yokai",
+      "es_ES": "Yōkai heroica",
+      "fr_FR": "Yokai intrépide",
+      "it_IT": "Yōkai Eroica",
+      "pl_PL": "Heroiczny yōkai",
+      "pt_PT": "Yokai Heroica",
+      "ru_RU": "Героический ёкай",
+      "tr_TR": "Kahraman Yōkai",
+      "ko_KR": "영웅 요괴",
+      "zh_TW": "英雄妖怪",
+      "zh_CN": "精英妖怪",
+      "ja_JP": "ヒロイック「ヨーカイ」",
+      "th_TH": "โยไคระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006313",
+    "name": {
+      "en_US": "Epic Yokai",
+      "es_MX": "Yokai épica",
+      "pt_BR": "Yokai Épica",
+      "de_DE": "Epische Yōkai",
+      "en_GB": "Epic Yokai",
+      "es_ES": "Yōkai épica",
+      "fr_FR": "Yokai épique",
+      "it_IT": "Yōkai Epica",
+      "pl_PL": "Epicki yōkai",
+      "pt_PT": "Yokai Épica",
+      "ru_RU": "Эпический ёкай",
+      "tr_TR": "Epik Yōkai",
+      "ko_KR": "특급 요괴",
+      "zh_TW": "史詩妖怪",
+      "zh_CN": "史诗妖怪",
+      "ja_JP": "エピック「ヨーカイ」",
+      "th_TH": "โยไคระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006314",
+    "name": {
+      "en_US": "Naturalist",
+      "es_MX": "Naturalista",
+      "pt_BR": "Naturalista",
+      "de_DE": "Naturalist",
+      "en_GB": "Naturalist",
+      "es_ES": "Naturalista",
+      "fr_FR": "Naturaliste",
+      "it_IT": "Naturalista",
+      "pl_PL": "Naturalista",
+      "pt_PT": "Naturalista",
+      "ru_RU": "Натуралист",
+      "tr_TR": "Doğa Bilimci",
+      "ko_KR": "자연학자",
+      "zh_TW": "博物學家",
+      "zh_CN": "自然学家",
+      "ja_JP": "ナチュラリスト",
+      "th_TH": "นักธรรมชาติวิทยา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006315",
+    "name": {
+      "en_US": "Heroic Naturalist",
+      "es_MX": "Naturalista heroico",
+      "pt_BR": "Naturalista Heroico",
+      "de_DE": "Heroischer Naturalist",
+      "en_GB": "Heroic Naturalist",
+      "es_ES": "Naturalista heroico",
+      "fr_FR": "Naturaliste intrépide",
+      "it_IT": "Naturalista Eroico",
+      "pl_PL": "Heroiczny naturalista",
+      "pt_PT": "Naturalista Heroico",
+      "ru_RU": "Героический натуралист",
+      "tr_TR": "Kahraman Doğa Bilimci",
+      "ko_KR": "영웅 자연학자",
+      "zh_TW": "英雄博物學家",
+      "zh_CN": "精英自然学家",
+      "ja_JP": "ヒロイック「ナチュラリスト」",
+      "th_TH": "นักธรรมชาติวิทยาระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006316",
+    "name": {
+      "en_US": "Epic Naturalist",
+      "es_MX": "Naturalista épico",
+      "pt_BR": "Naturalista Épico",
+      "de_DE": "Epischer Naturalist",
+      "en_GB": "Epic Naturalist",
+      "es_ES": "Naturalista épico",
+      "fr_FR": "Naturaliste épique",
+      "it_IT": "Naturalista Epico",
+      "pl_PL": "Epicki naturalista",
+      "pt_PT": "Naturalista Épico",
+      "ru_RU": "Эпический натуралист",
+      "tr_TR": "Epik Doğa Bilimci",
+      "ko_KR": "특급 자연학자",
+      "zh_TW": "史詩博物學家",
+      "zh_CN": "史诗自然学家",
+      "ja_JP": "エピック「ナチュラリスト」",
+      "th_TH": "นักธรรมชาติวิทยาระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006317",
+    "name": {
+      "en_US": "DJ",
+      "es_MX": "DJ",
+      "pt_BR": "DJ",
+      "de_DE": "DJ",
+      "en_GB": "DJ",
+      "es_ES": "DJ",
+      "fr_FR": "DJ",
+      "it_IT": "DJ",
+      "pl_PL": "DJ",
+      "pt_PT": "DJ",
+      "ru_RU": "Диджей",
+      "tr_TR": "DJ",
+      "ko_KR": "DJ",
+      "zh_TW": "DJ",
+      "zh_CN": "DJ",
+      "ja_JP": "DJ",
+      "th_TH": "ดีเจ"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006318",
+    "name": {
+      "en_US": "Heroic DJ",
+      "es_MX": "DJ heroico",
+      "pt_BR": "DJ Heroico",
+      "de_DE": "Heroischer DJ",
+      "en_GB": "Heroic DJ",
+      "es_ES": "DJ heroico",
+      "fr_FR": "DJ intrépide",
+      "it_IT": "DJ Eroico",
+      "pl_PL": "Heroiczny DJ",
+      "pt_PT": "DJ Heroico",
+      "ru_RU": "Героический диджей",
+      "tr_TR": "Kahraman DJ",
+      "ko_KR": "영웅 DJ",
+      "zh_TW": "英雄DJ",
+      "zh_CN": "精英DJ",
+      "ja_JP": "ヒロイック「DJ」",
+      "th_TH": "ดีเจระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006319",
+    "name": {
+      "en_US": "Epic DJ",
+      "es_MX": "DJ épico",
+      "pt_BR": "DJ Épico",
+      "de_DE": "Epischer DJ",
+      "en_GB": "Epic DJ",
+      "es_ES": "DJ épico",
+      "fr_FR": "DJ épique",
+      "it_IT": "DJ Epico",
+      "pl_PL": "Epicki DJ",
+      "pt_PT": "DJ Épico",
+      "ru_RU": "Эпический диджей",
+      "tr_TR": "Epik DJ",
+      "ko_KR": "특급 DJ",
+      "zh_TW": "史詩DJ",
+      "zh_CN": "史诗DJ",
+      "ja_JP": "エピック「DJ」",
+      "th_TH": "ดีเจระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631A",
+    "name": {
+      "en_US": "Climatologist",
+      "es_MX": "Climatóloga",
+      "pt_BR": "Climatologista",
+      "de_DE": "Klimatologin",
+      "en_GB": "Climatologist",
+      "es_ES": "Climatóloga",
+      "fr_FR": "Climatologue",
+      "it_IT": "Climatologa",
+      "pl_PL": "Klimatolożka",
+      "pt_PT": "Climatologista",
+      "ru_RU": "Климатолог",
+      "tr_TR": "İklim Bilimci",
+      "ko_KR": "기후학자",
+      "zh_TW": "氣候學家",
+      "zh_CN": "气候学家",
+      "ja_JP": "気候学者",
+      "th_TH": "นักอุตุนิยมวิทยา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631B",
+    "name": {
+      "en_US": "Heroic Climatologist",
+      "es_MX": "Climatóloga heroica",
+      "pt_BR": "Climatologista Heroica",
+      "de_DE": "Heroische Klimatologin",
+      "en_GB": "Heroic Climatologist",
+      "es_ES": "Climatóloga heroica",
+      "fr_FR": "Climatologue intrépide",
+      "it_IT": "Climatologa Eroica",
+      "pl_PL": "Heroiczna klimatolożka",
+      "pt_PT": "Climatologista Heroica",
+      "ru_RU": "Героический климатолог",
+      "tr_TR": "Kahraman İklim Bilimci",
+      "ko_KR": "영웅 기후학자",
+      "zh_TW": "英雄氣候學家",
+      "zh_CN": "精英气候学家",
+      "ja_JP": "ヒロイック「気候学者」",
+      "th_TH": "นักอุตุนิยมวิทยาระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631C",
+    "name": {
+      "en_US": "Epic Climatologist",
+      "es_MX": "Climatóloga épica",
+      "pt_BR": "Climatologista Épica",
+      "de_DE": "Epische Klimatologin",
+      "en_GB": "Epic Climatologist",
+      "es_ES": "Climatóloga épica",
+      "fr_FR": "Climatologue épique",
+      "it_IT": "Climatologa Epica",
+      "pl_PL": "Epicka klimatolożka",
+      "pt_PT": "Climatologista Épica",
+      "ru_RU": "Эпический климатолог",
+      "tr_TR": "Epik İklim Bilimci",
+      "ko_KR": "특급 기후학자",
+      "zh_TW": "史詩氣候學家",
+      "zh_CN": "史诗气候学家",
+      "ja_JP": "エピック「気候学者」",
+      "th_TH": "นักอุตุนิยมวิทยาระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631D",
+    "name": {
+      "en_US": "Valkyrie",
+      "es_MX": "Valquiria",
+      "pt_BR": "Valquíria",
+      "de_DE": "Valkyrie",
+      "en_GB": "Valkyrie",
+      "es_ES": "Valkiria",
+      "fr_FR": "Valkyrie",
+      "it_IT": "Valchiria",
+      "pl_PL": "Walkiria",
+      "pt_PT": "Valquíria",
+      "ru_RU": "Валькирия",
+      "tr_TR": "Valkür",
+      "ko_KR": "발키리",
+      "zh_TW": "女武神",
+      "zh_CN": "女武神",
+      "ja_JP": "ヴァルキリー",
+      "th_TH": "วาลคิรี่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631E",
+    "name": {
+      "en_US": "Heroic Valkyrie",
+      "es_MX": "Valquiria heroica",
+      "pt_BR": "Valquíria Heroica",
+      "de_DE": "Heroische Valkyrie",
+      "en_GB": "Heroic Valkyrie",
+      "es_ES": "Valkiria heroica",
+      "fr_FR": "Valkyrie intrépide",
+      "it_IT": "Valchiria Eroica",
+      "pl_PL": "Heroiczna walkiria",
+      "pt_PT": "Valquíria Heroica",
+      "ru_RU": "Героическая валькирия",
+      "tr_TR": "Kahraman Valkür",
+      "ko_KR": "영웅 발키리",
+      "zh_TW": "英雄女武神",
+      "zh_CN": "精英女武神",
+      "ja_JP": "ヒロイック「ヴァルキリー」",
+      "th_TH": "วาลคิรี่ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000631F",
+    "name": {
+      "en_US": "Epic Valkyrie",
+      "es_MX": "Valquiria épica",
+      "pt_BR": "Valquíria Épica",
+      "de_DE": "Epische Valkyrie",
+      "en_GB": "Epic Valkyrie",
+      "es_ES": "Valkiria épica",
+      "fr_FR": "Valkyrie épique",
+      "it_IT": "Valchiria Epica",
+      "pl_PL": "Epicka walkiria",
+      "pt_PT": "Valquíria Épica",
+      "ru_RU": "Эпическая валькирия",
+      "tr_TR": "Epik Valkür",
+      "ko_KR": "특급 발키리",
+      "zh_TW": "史詩女武神",
+      "zh_CN": "史诗女武神",
+      "ja_JP": "エピック「ヴァルキリー」",
+      "th_TH": "วาลคิรี่ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006320",
+    "name": {
+      "en_US": "Geneticist",
+      "es_MX": "Genetista",
+      "pt_BR": "Geneticista",
+      "de_DE": "Genetikerin",
+      "en_GB": "Geneticist",
+      "es_ES": "Genetista",
+      "fr_FR": "Généticienne",
+      "it_IT": "Genetista",
+      "pl_PL": "Genetyk",
+      "pt_PT": "Geneticista",
+      "ru_RU": "Генетик",
+      "tr_TR": "Genetikçi",
+      "ko_KR": "유전학자",
+      "zh_TW": "基因學家",
+      "zh_CN": "基因科学家",
+      "ja_JP": "遺伝学者",
+      "th_TH": "นักพันธุศาสตร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006321",
+    "name": {
+      "en_US": "Heroic Geneticist",
+      "es_MX": "Genetista heroica",
+      "pt_BR": "Geneticista Heroica",
+      "de_DE": "Heroische Genetikerin",
+      "en_GB": "Heroic Geneticist",
+      "es_ES": "Genetista heroica",
+      "fr_FR": "Généticienne intrépide",
+      "it_IT": "Genetista Eroica",
+      "pl_PL": "Heroiczny genetyk",
+      "pt_PT": "Geneticista Heroica",
+      "ru_RU": "Героический генетик",
+      "tr_TR": "Kahraman Genetikçi",
+      "ko_KR": "영웅 유전학자",
+      "zh_TW": "英雄基因學家",
+      "zh_CN": "精英基因科学家",
+      "ja_JP": "ヒロイック「遺伝学者」",
+      "th_TH": "นักพันธุศาสตร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006322",
+    "name": {
+      "en_US": "Epic Geneticist",
+      "es_MX": "Genetista épica",
+      "pt_BR": "Geneticista Épica",
+      "de_DE": "Epische Genetikerin",
+      "en_GB": "Epic Geneticist",
+      "es_ES": "Genetista épica",
+      "fr_FR": "Généticienne épique",
+      "it_IT": "Genetista Epica",
+      "pl_PL": "Epicki genetyk",
+      "pt_PT": "Geneticista Épica",
+      "ru_RU": "Эпический генетик",
+      "tr_TR": "Epik Genetikçi",
+      "ko_KR": "특급 유전학자",
+      "zh_TW": "史詩基因學家",
+      "zh_CN": "史诗基因科学家",
+      "ja_JP": "エピック「遺伝学者」",
+      "th_TH": "นักพันธุศาสตร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006323",
+    "name": {
+      "en_US": "Defender of Numbani",
+      "es_MX": "Defensora de Numbani",
+      "pt_BR": "Defensora de Numbani",
+      "de_DE": "Beschützerin von Numbani",
+      "en_GB": "Defender of Numbani",
+      "es_ES": "Defensora de Numbani",
+      "fr_FR": "Protectrice de Numbani",
+      "it_IT": "Protettrice di Numbani",
+      "pl_PL": "Obrończyni Numbani",
+      "pt_PT": "Defensora de Numbani",
+      "ru_RU": "Защитник Нумбани",
+      "tr_TR": "Numbani Muhafızı",
+      "ko_KR": "눔바니의 수호자",
+      "zh_TW": "努巴尼守護者",
+      "zh_CN": "努巴尼的保卫者",
+      "ja_JP": "ヌンバーニの守護者",
+      "th_TH": "ผู้พิทักษ์แห่งนุมบานี"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006324",
+    "name": {
+      "en_US": "Heroic Defender of Numbani",
+      "es_MX": "Defensora de Numbani heroica",
+      "pt_BR": "Defensora de Numbani Heroica",
+      "de_DE": "Heroische Beschützerin von Numbani",
+      "en_GB": "Heroic Defender of Numbani",
+      "es_ES": "Defensora de Numbani heroica",
+      "fr_FR": "Protectrice de Numbani intrépide",
+      "it_IT": "Protettrice di Numbani Eroica",
+      "pl_PL": "Heroiczna Obrończyni Numbani",
+      "pt_PT": "Defensora de Numbani Heroica",
+      "ru_RU": "Героический защитник Нумбани",
+      "tr_TR": "Kahraman Numbani Muhafızı",
+      "ko_KR": "영웅 눔바니의 수호자",
+      "zh_TW": "英雄努巴尼守護者",
+      "zh_CN": "努巴尼的精英保卫者",
+      "ja_JP": "ヒロイック「ヌンバーニの守護者」",
+      "th_TH": "ผู้พิทักษ์แห่งนุมบานีระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006325",
+    "name": {
+      "en_US": "Epic Defender of Numbani",
+      "es_MX": "Defensora de Numbani épica",
+      "pt_BR": "Defensora de Numbani Épica",
+      "de_DE": "Epische Beschützerin von Numbani",
+      "en_GB": "Epic Defender of Numbani",
+      "es_ES": "Defensora de Numbani épica",
+      "fr_FR": "Protectrice de Numbani épique",
+      "it_IT": "Protettrice di Numbani Epica",
+      "pl_PL": "Epicka Obrończyni Numbani",
+      "pt_PT": "Defensora de Numbani Épica",
+      "ru_RU": "Эпический защитник Нумбани",
+      "tr_TR": "Epik Numbani Muhafızı",
+      "ko_KR": "특급 눔바니의 수호자",
+      "zh_TW": "史詩努巴尼守護者",
+      "zh_CN": "努巴尼的史诗保卫者",
+      "ja_JP": "エピック「ヌンバーニの守護者」",
+      "th_TH": "ผู้พิทักษ์แห่งนุมบานีระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006326",
+    "name": {
+      "en_US": "Justicar",
+      "es_MX": "Justicar",
+      "pt_BR": "Justiceira",
+      "de_DE": "Justikarin",
+      "en_GB": "Justicar",
+      "es_ES": "Justicar",
+      "fr_FR": "Justicière",
+      "it_IT": "Giustiziera",
+      "pl_PL": "Justycjariusz",
+      "pt_PT": "Justiceira",
+      "ru_RU": "Судья",
+      "tr_TR": "Yargıç",
+      "ko_KR": "심판자",
+      "zh_TW": "審判者",
+      "zh_CN": "正义制裁者",
+      "ja_JP": "断罪者",
+      "th_TH": "จัสติคาร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006327",
+    "name": {
+      "en_US": "Heroic Justicar",
+      "es_MX": "Justicar heroica",
+      "pt_BR": "Justiceira Heroica",
+      "de_DE": "Heroische Justikarin",
+      "en_GB": "Heroic Justicar",
+      "es_ES": "Justicar heroica",
+      "fr_FR": "Justicière intrépide",
+      "it_IT": "Giustiziera Eroica",
+      "pl_PL": "Heroiczny justycjariusz",
+      "pt_PT": "Justiceira Heroica",
+      "ru_RU": "Героический судья",
+      "tr_TR": "Kahraman Yargıç",
+      "ko_KR": "영웅 심판자",
+      "zh_TW": "英雄審判者",
+      "zh_CN": "精英正义制裁者",
+      "ja_JP": "ヒロイック「断罪者」",
+      "th_TH": "จัสติคาร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006328",
+    "name": {
+      "en_US": "Epic Justicar",
+      "es_MX": "Justicar épica",
+      "pt_BR": "Justiceira Épica",
+      "de_DE": "Epische Justikarin",
+      "en_GB": "Epic Justicar",
+      "es_ES": "Justicar épica",
+      "fr_FR": "Justicière épique",
+      "it_IT": "Giustiziera Epica",
+      "pl_PL": "Epicki justycjariusz",
+      "pt_PT": "Justiceira Épica",
+      "ru_RU": "Эпический судья",
+      "tr_TR": "Epik Yargıç",
+      "ko_KR": "특급 심판자",
+      "zh_TW": "史詩審判者",
+      "zh_CN": "史诗正义制裁者",
+      "ja_JP": "エピック「断罪者」",
+      "th_TH": "จัสติคาร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006329",
+    "name": {
+      "en_US": "Ravager",
+      "es_MX": "Devastador",
+      "pt_BR": "Devastador",
+      "de_DE": "Verwüster",
+      "en_GB": "Ravager",
+      "es_ES": "Ravager",
+      "fr_FR": "Saccageur",
+      "it_IT": "Laceratore",
+      "pl_PL": "Pustoszyciel",
+      "pt_PT": "Devastador",
+      "ru_RU": "Разоритель",
+      "tr_TR": "Tahripkâr",
+      "ko_KR": "약탈자",
+      "zh_TW": "破壞者",
+      "zh_CN": "毁灭者",
+      "ja_JP": "破壊者",
+      "th_TH": "ราเวเจอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632A",
+    "name": {
+      "en_US": "Heroic Ravager",
+      "es_MX": "Devastador heroico",
+      "pt_BR": "Devastador Heroico",
+      "de_DE": "Heroischer Verwüster",
+      "en_GB": "Heroic Ravager",
+      "es_ES": "Ravager heroico",
+      "fr_FR": "Saccageur intrépide",
+      "it_IT": "Laceratore Eroico",
+      "pl_PL": "Heroiczny pustoszyciel",
+      "pt_PT": "Devastador Heroico",
+      "ru_RU": "Героический разоритель",
+      "tr_TR": "Kahraman Tahripkâr",
+      "ko_KR": "영웅 약탈자",
+      "zh_TW": "英雄破壞者",
+      "zh_CN": "精英毁灭者",
+      "ja_JP": "ヒロイック「破壊者」",
+      "th_TH": "ราเวเจอร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632B",
+    "name": {
+      "en_US": "Epic Ravager",
+      "es_MX": "Devastador épico",
+      "pt_BR": "Devastador Épico",
+      "de_DE": "Epischer Verwüster",
+      "en_GB": "Epic Ravager",
+      "es_ES": "Ravager épico",
+      "fr_FR": "Saccageur épique",
+      "it_IT": "Laceratore Epico",
+      "pl_PL": "Epicki pustoszyciel",
+      "pt_PT": "Devastador Épico",
+      "ru_RU": "Эпический разоритель",
+      "tr_TR": "Epik Tahripkâr",
+      "ko_KR": "특급 약탈자",
+      "zh_TW": "史詩破壞者",
+      "zh_CN": "史诗毁灭者",
+      "ja_JP": "エピック「破壊者」",
+      "th_TH": "ราเวเจอร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632C",
+    "name": {
+      "en_US": "Wraith",
+      "es_MX": "Espectro",
+      "pt_BR": "Fantasma",
+      "de_DE": "Geist",
+      "en_GB": "Wraith",
+      "es_ES": "Espectro",
+      "fr_FR": "Spectre",
+      "it_IT": "Spettro",
+      "pl_PL": "Upiór",
+      "pt_PT": "Fantasma",
+      "ru_RU": "Призрак",
+      "tr_TR": "Tayf",
+      "ko_KR": "망령",
+      "zh_TW": "亡靈",
+      "zh_CN": "幽灵",
+      "ja_JP": "幽鬼",
+      "th_TH": "เจตภูติ"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632D",
+    "name": {
+      "en_US": "Heroic Wraith",
+      "es_MX": "Espectro heroico",
+      "pt_BR": "Fantasma Heroico",
+      "de_DE": "Heroischer Geist",
+      "en_GB": "Heroic Wraith",
+      "es_ES": "Espectro heroico",
+      "fr_FR": "Spectre intrépide",
+      "it_IT": "Spettro Eroico",
+      "pl_PL": "Heroiczny upiór",
+      "pt_PT": "Fantasma Heroico",
+      "ru_RU": "Героический призрак",
+      "tr_TR": "Kahraman Tayf",
+      "ko_KR": "영웅 망령",
+      "zh_TW": "英雄亡靈",
+      "zh_CN": "精英幽灵",
+      "ja_JP": "ヒロイック「幽鬼」",
+      "th_TH": "เจตภูตระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632E",
+    "name": {
+      "en_US": "Epic Wraith",
+      "es_MX": "Espectro épico",
+      "pt_BR": "Fantasma Épico",
+      "de_DE": "Epischer Geist",
+      "en_GB": "Epic Wraith",
+      "es_ES": "Espectro épico",
+      "fr_FR": "Spectre épique",
+      "it_IT": "Spettro Epico",
+      "pl_PL": "Epicki upiór",
+      "pt_PT": "Fantasma Épico",
+      "ru_RU": "Эпический призрак",
+      "tr_TR": "Epik Tayf",
+      "ko_KR": "특급 망령",
+      "zh_TW": "史詩亡靈",
+      "zh_CN": "史诗幽灵",
+      "ja_JP": "エピック「幽鬼」",
+      "th_TH": "เจตภูตระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000632F",
+    "name": {
+      "en_US": "Crusader",
+      "es_MX": "Cruzado",
+      "pt_BR": "Cruzado",
+      "de_DE": "Kreuzritter",
+      "en_GB": "Crusader",
+      "es_ES": "Cruzado",
+      "fr_FR": "Croisé",
+      "it_IT": "Crusader",
+      "pl_PL": "Krzyżowiec",
+      "pt_PT": "Cruzado",
+      "ru_RU": "Рыцарь",
+      "tr_TR": "Taarruzcu",
+      "ko_KR": "크루세이더",
+      "zh_TW": "十字軍",
+      "zh_CN": "十字军",
+      "ja_JP": "クルセイダー",
+      "th_TH": "นักรบครูเสด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006330",
+    "name": {
+      "en_US": "Heroic Crusader",
+      "es_MX": "Cruzado heroico",
+      "pt_BR": "Cruzado Heroico",
+      "de_DE": "Heroischer Kreuzritter",
+      "en_GB": "Heroic Crusader",
+      "es_ES": "Cruzado heroico",
+      "fr_FR": "Croisé intrépide",
+      "it_IT": "Crusader Eroico",
+      "pl_PL": "Heroiczny krzyżowiec",
+      "pt_PT": "Cruzado Heroico",
+      "ru_RU": "Героический рыцарь",
+      "tr_TR": "Kahraman Taarruzcu",
+      "ko_KR": "영웅 크루세이더",
+      "zh_TW": "英雄十字軍",
+      "zh_CN": "精英十字军",
+      "ja_JP": "ヒロイック「クルセイダー」",
+      "th_TH": "นักรบครูเสดระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006331",
+    "name": {
+      "en_US": "Epic Crusader",
+      "es_MX": "Cruzado épico",
+      "pt_BR": "Cruzado Épico",
+      "de_DE": "Epischer Kreuzritter",
+      "en_GB": "Epic Crusader",
+      "es_ES": "Cruzado épico",
+      "fr_FR": "Croisé épique",
+      "it_IT": "Crusader Epico",
+      "pl_PL": "Epicki krzyżowiec",
+      "pt_PT": "Cruzado Épico",
+      "ru_RU": "Эпический рыцарь",
+      "tr_TR": "Epik Taarruzcu",
+      "ko_KR": "특급 크루세이더",
+      "zh_TW": "史詩十字軍",
+      "zh_CN": "史诗十字军",
+      "ja_JP": "エピック「クルセイダー」",
+      "th_TH": "นักรบครูเสดระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006332",
+    "name": {
+      "en_US": "Hog",
+      "es_MX": "Jabalí",
+      "pt_BR": "Porco",
+      "de_DE": "Schwein",
+      "en_GB": "Hog",
+      "es_ES": "Cerdo",
+      "fr_FR": "Porc",
+      "it_IT": "Cinghiale",
+      "pl_PL": "Wieprz",
+      "pt_PT": "Porco",
+      "ru_RU": "Свин",
+      "tr_TR": "Domuz",
+      "ko_KR": "호그",
+      "zh_TW": "惡豬",
+      "zh_CN": "蛮猪",
+      "ja_JP": "ホッグ",
+      "th_TH": "หมู"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006333",
+    "name": {
+      "en_US": "Heroic Hog",
+      "es_MX": "Jabalí heroico",
+      "pt_BR": "Porco Heroico",
+      "de_DE": "Heroisches Schwein",
+      "en_GB": "Heroic Hog",
+      "es_ES": "Cerdo heroico",
+      "fr_FR": "Porc intrépide",
+      "it_IT": "Cinghiale Eroico",
+      "pl_PL": "Heroiczny wieprz",
+      "pt_PT": "Porco Heroico",
+      "ru_RU": "Героический свин",
+      "tr_TR": "Kahraman Domuz",
+      "ko_KR": "영웅 호그",
+      "zh_TW": "英雄惡豬",
+      "zh_CN": "精英蛮猪",
+      "ja_JP": "ヒロイック「ホッグ」",
+      "th_TH": "หมูระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006334",
+    "name": {
+      "en_US": "Epic Hog",
+      "es_MX": "Jabalí épico",
+      "pt_BR": "Porco Épico",
+      "de_DE": "Episches Schwein",
+      "en_GB": "Epic Hog",
+      "es_ES": "Cerdo épico",
+      "fr_FR": "Porc épique",
+      "it_IT": "Cinghiale Epico",
+      "pl_PL": "Epicki wieprz",
+      "pt_PT": "Porco Épico",
+      "ru_RU": "Эпический свин",
+      "tr_TR": "Epik Domuz",
+      "ko_KR": "특급 호그",
+      "zh_TW": "史詩惡豬",
+      "zh_CN": "史诗蛮猪",
+      "ja_JP": "エピック「ホッグ」",
+      "th_TH": "หมูระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006335",
+    "name": {
+      "en_US": "Astrophysicist",
+      "es_MX": "Astrofísico",
+      "pt_BR": "Astrofísico",
+      "de_DE": "Astrophysiker",
+      "en_GB": "Astrophysicist",
+      "es_ES": "Astrofísico",
+      "fr_FR": "Astrophysicien",
+      "it_IT": "Astrofisico",
+      "pl_PL": "Astrofizyk",
+      "pt_PT": "Astrofísico",
+      "ru_RU": "Астрофизик",
+      "tr_TR": "Astrofizikçi",
+      "ko_KR": "천체물리학자",
+      "zh_TW": "天體物理學家",
+      "zh_CN": "天体物理学家",
+      "ja_JP": "天体物理学者",
+      "th_TH": "นักฟิสิกส์ดาราศาสตร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006336",
+    "name": {
+      "en_US": "Heroic Astrophysicist",
+      "es_MX": "Astrofísico heroico",
+      "pt_BR": "Astrofísico Heroico",
+      "de_DE": "Heroischer Astrophysiker",
+      "en_GB": "Heroic Astrophysicist",
+      "es_ES": "Astrofísico heroico",
+      "fr_FR": "Astrophysicien intrépide",
+      "it_IT": "Astrofisico Eroico",
+      "pl_PL": "Heroiczny astrofizyk",
+      "pt_PT": "Astrofísico Heroico",
+      "ru_RU": "Героический астрофизик",
+      "tr_TR": "Kahraman Astrofizikçi",
+      "ko_KR": "영웅 천체물리학자",
+      "zh_TW": "英雄天體物理學家",
+      "zh_CN": "精英天体物理学家",
+      "ja_JP": "ヒロイック「天体物理学者」",
+      "th_TH": "นักฟิสิกส์ดาราศาสตร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006337",
+    "name": {
+      "en_US": "Epic Astrophysicist",
+      "es_MX": "Astrofísico épico",
+      "pt_BR": "Astrofísico Épico",
+      "de_DE": "Epischer Astrophysiker",
+      "en_GB": "Epic Astrophysicist",
+      "es_ES": "Astrofísico épico",
+      "fr_FR": "Astrophysicien épique",
+      "it_IT": "Astrofisico Epico",
+      "pl_PL": "Epicki astrofizyk",
+      "pt_PT": "Astrofísico Épico",
+      "ru_RU": "Эпический астрофизик",
+      "tr_TR": "Epik Astrofizikçi",
+      "ko_KR": "특급 천체물리학자",
+      "zh_TW": "史詩天體物理學家",
+      "zh_CN": "史诗天体物理学家",
+      "ja_JP": "エピック「天体物理学者」",
+      "th_TH": "นักฟิสิกส์ดาราศาสตร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006338",
+    "name": {
+      "en_US": "Tactician",
+      "es_MX": "Táctica",
+      "pt_BR": "Estrategista",
+      "de_DE": "Taktikerin",
+      "en_GB": "Tactician",
+      "es_ES": "Estratega",
+      "fr_FR": "Tacticienne",
+      "it_IT": "Stratega",
+      "pl_PL": "Taktyk",
+      "pt_PT": "Estrategista",
+      "ru_RU": "Тактик",
+      "tr_TR": "Taktisyen",
+      "ko_KR": "전술가",
+      "zh_TW": "戰術專家",
+      "zh_CN": "战术家",
+      "ja_JP": "戦術家",
+      "th_TH": "นักกลยุทธ์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006339",
+    "name": {
+      "en_US": "Heroic Tactician",
+      "es_MX": "Táctica heroica",
+      "pt_BR": "Estrategista Heroica",
+      "de_DE": "Heroische Taktikerin",
+      "en_GB": "Heroic Tactician",
+      "es_ES": "Estratega heroica",
+      "fr_FR": "Tacticienne intrépide",
+      "it_IT": "Stratega Eroica",
+      "pl_PL": "Heroiczny taktyk",
+      "pt_PT": "Estrategista Heroica",
+      "ru_RU": "Героический тактик",
+      "tr_TR": "Kahraman Taktisyen",
+      "ko_KR": "영웅 전술가",
+      "zh_TW": "英雄戰術專家",
+      "zh_CN": "精英战术家",
+      "ja_JP": "ヒロイック「戦術家」",
+      "th_TH": "นักกลยุทธ์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633A",
+    "name": {
+      "en_US": "Epic Tactician",
+      "es_MX": "Táctica épica",
+      "pt_BR": "Estrategista Épica",
+      "de_DE": "Epische Taktikerin",
+      "en_GB": "Epic Tactician",
+      "es_ES": "Estratega épica",
+      "fr_FR": "Tacticienne épique",
+      "it_IT": "Stratega Epica",
+      "pl_PL": "Epicki taktyk",
+      "pt_PT": "Estrategista Épica",
+      "ru_RU": "Эпический тактик",
+      "tr_TR": "Epik Taktisyen",
+      "ko_KR": "특급 전술가",
+      "zh_TW": "史詩戰術專家",
+      "zh_CN": "史诗战术家",
+      "ja_JP": "エピック「戦術家」",
+      "th_TH": "นักกลยุทธ์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633B",
+    "name": {
+      "en_US": "Vigilante",
+      "es_MX": "Justiciero",
+      "pt_BR": "Vigilante",
+      "de_DE": "Maskierter Rächer",
+      "en_GB": "Vigilante",
+      "es_ES": "Justiciero",
+      "fr_FR": "Vengeur",
+      "it_IT": "Vigilante",
+      "pl_PL": "Mściciel",
+      "pt_PT": "Vigilante",
+      "ru_RU": "Мститель",
+      "tr_TR": "Kanuntanımaz",
+      "ko_KR": "자경단원",
+      "zh_TW": "正義使者",
+      "zh_CN": "蒙面义警",
+      "ja_JP": "ヴィジランテ",
+      "th_TH": "ศาลเตี้ย"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633C",
+    "name": {
+      "en_US": "Heroic Vigilante",
+      "es_MX": "Justiciero heroico",
+      "pt_BR": "Vigilante Heroico",
+      "de_DE": "Heroischer maskierter Rächer",
+      "en_GB": "Heroic Vigilante",
+      "es_ES": "Justiciero heroico",
+      "fr_FR": "Vengeur intrépide",
+      "it_IT": "Vigilante Eroico",
+      "pl_PL": "Heroiczny mściciel",
+      "pt_PT": "Vigilante Heroico",
+      "ru_RU": "Героический мститель",
+      "tr_TR": "Kahraman Kanuntanımaz",
+      "ko_KR": "영웅 자경단원",
+      "zh_TW": "英雄正義使者",
+      "zh_CN": "精英蒙面义警",
+      "ja_JP": "ヒロイック「ヴィジランテ」",
+      "th_TH": "ศาลเตี้ยระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633D",
+    "name": {
+      "en_US": "Epic Vigilante",
+      "es_MX": "Justiciero épico",
+      "pt_BR": "Vigilante Épico",
+      "de_DE": "Epischer maskierter Rächer",
+      "en_GB": "Epic Vigilante",
+      "es_ES": "Justiciero épico",
+      "fr_FR": "Vengeur épique",
+      "it_IT": "Vigilante Epico",
+      "pl_PL": "Epicki mściciel",
+      "pt_PT": "Vigilante Épico",
+      "ru_RU": "Эпический мститель",
+      "tr_TR": "Epik Kanuntanımaz",
+      "ko_KR": "특급 자경단원",
+      "zh_TW": "史詩正義使者",
+      "zh_CN": "史诗蒙面义警",
+      "ja_JP": "エピック「ヴィジランテ」",
+      "th_TH": "ศาลเตี้ยระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633E",
+    "name": {
+      "en_US": "Hacker",
+      "es_MX": "Hacker",
+      "pt_BR": "Hacker",
+      "de_DE": "Hackerin",
+      "en_GB": "Hacker",
+      "es_ES": "Hacker",
+      "fr_FR": "Hackeuse",
+      "it_IT": "Hacker",
+      "pl_PL": "Haker",
+      "pt_PT": "Hacker",
+      "ru_RU": "Хакер",
+      "tr_TR": "Hacker",
+      "ko_KR": "해커",
+      "zh_TW": "駭客",
+      "zh_CN": "黑客",
+      "ja_JP": "ハッカー",
+      "th_TH": "แฮ็คเกอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000633F",
+    "name": {
+      "en_US": "Heroic Hacker",
+      "es_MX": "Hacker heroica",
+      "pt_BR": "Hacker Heroica",
+      "de_DE": "Heroische Hackerin",
+      "en_GB": "Heroic Hacker",
+      "es_ES": "Hacker heroica",
+      "fr_FR": "Hackeuse intrépide",
+      "it_IT": "Hacker Eroica",
+      "pl_PL": "Heroiczny haker",
+      "pt_PT": "Hacker Heroica",
+      "ru_RU": "Героический хакер",
+      "tr_TR": "Kahraman Hacker",
+      "ko_KR": "영웅 해커",
+      "zh_TW": "英雄駭客",
+      "zh_CN": "精英黑客",
+      "ja_JP": "ヒロイック「ハッカー」",
+      "th_TH": "แฮ็คเกอร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006340",
+    "name": {
+      "en_US": "Epic Hacker",
+      "es_MX": "Hacker épica",
+      "pt_BR": "Hacker Épica",
+      "de_DE": "Epische Hackerin",
+      "en_GB": "Epic Hacker",
+      "es_ES": "Hacker épica",
+      "fr_FR": "Hackeuse épique",
+      "it_IT": "Hacker Epica",
+      "pl_PL": "Epicki haker",
+      "pt_PT": "Hacker Épica",
+      "ru_RU": "Эпический хакер",
+      "tr_TR": "Epik Hacker",
+      "ko_KR": "특급 해커",
+      "zh_TW": "史詩駭客",
+      "zh_CN": "史诗黑客",
+      "ja_JP": "エピック「ハッカー」",
+      "th_TH": "แฮ็คเกอร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006341",
+    "name": {
+      "en_US": "Architech",
+      "es_MX": "Arquitécnica",
+      "pt_BR": "Arquitécnica",
+      "de_DE": "Architech",
+      "en_GB": "Architech",
+      "es_ES": "Arquitécnica",
+      "fr_FR": "Architecte",
+      "it_IT": "Architech",
+      "pl_PL": "Architech",
+      "pt_PT": "Arquitécnica",
+      "ru_RU": "Архитектор",
+      "tr_TR": "Mimar",
+      "ko_KR": "광축가",
+      "zh_TW": "建築師",
+      "zh_CN": "光子建筑师",
+      "ja_JP": "アーキテック",
+      "th_TH": "สถาปนิก"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006342",
+    "name": {
+      "en_US": "Heroic Architech",
+      "es_MX": "Arquitécnica heroica",
+      "pt_BR": "Arquitécnica Heroica",
+      "de_DE": "Heroische Architech",
+      "en_GB": "Heroic Architech",
+      "es_ES": "Arquitécnica heroica",
+      "fr_FR": "Architecte intrépide",
+      "it_IT": "Architech Eroica",
+      "pl_PL": "Heroiczny architech",
+      "pt_PT": "Arquitécnica Heroica",
+      "ru_RU": "Героический архитектор",
+      "tr_TR": "Kahraman Mimar",
+      "ko_KR": "영웅 광축가",
+      "zh_TW": "英雄建築師",
+      "zh_CN": "精英光子建筑师",
+      "ja_JP": "ヒロイック「アーキテック」",
+      "th_TH": "สถาปนิกระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006343",
+    "name": {
+      "en_US": "Epic Architech",
+      "es_MX": "Arquitécnica épica",
+      "pt_BR": "Arquitécnica Épica",
+      "de_DE": "Epische Architech",
+      "en_GB": "Epic Architech",
+      "es_ES": "Arquitécnica épica",
+      "fr_FR": "Architecte épique",
+      "it_IT": "Architech Epica",
+      "pl_PL": "Epicki architech",
+      "pt_PT": "Arquitécnica Épica",
+      "ru_RU": "Эпический архитектор",
+      "tr_TR": "Epik Mimar",
+      "ko_KR": "특급 광축가",
+      "zh_TW": "史詩建築師",
+      "zh_CN": "史诗光子建筑师",
+      "ja_JP": "エピック「アーキテック」",
+      "th_TH": "สถาปนิกระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006344",
+    "name": {
+      "en_US": "Engineer",
+      "es_MX": "Ingeniero",
+      "pt_BR": "Engenheiro",
+      "de_DE": "Ingenieur",
+      "en_GB": "Engineer",
+      "es_ES": "Ingeniero",
+      "fr_FR": "Ingénieur",
+      "it_IT": "Ingegnere",
+      "pl_PL": "Inżynier",
+      "pt_PT": "Engenheiro",
+      "ru_RU": "Инженер",
+      "tr_TR": "Mühendis",
+      "ko_KR": "기술자",
+      "zh_TW": "工程師",
+      "zh_CN": "工程师",
+      "ja_JP": "エンジニア",
+      "th_TH": "วิศวกร"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006345",
+    "name": {
+      "en_US": "Heroic Engineer",
+      "es_MX": "Ingeniero épico",
+      "pt_BR": "Engenheiro Heroico",
+      "de_DE": "Heroischer Ingenieur",
+      "en_GB": "Heroic Engineer",
+      "es_ES": "Ingeniero heroico",
+      "fr_FR": "Ingénieur intrépide",
+      "it_IT": "Ingegnere Eroico",
+      "pl_PL": "Heroiczny inżynier",
+      "pt_PT": "Engenheiro Heroico",
+      "ru_RU": "Героический инженер",
+      "tr_TR": "Kahraman Mühendis",
+      "ko_KR": "영웅 기술자",
+      "zh_TW": "英雄工程師",
+      "zh_CN": "精英工程师",
+      "ja_JP": "ヒロイック「エンジニア」",
+      "th_TH": "วิศวกรระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006346",
+    "name": {
+      "en_US": "Epic Engineer",
+      "es_MX": "Ingeniero épico",
+      "pt_BR": "Engenheiro Épico",
+      "de_DE": "Epischer Ingenieur",
+      "en_GB": "Epic Engineer",
+      "es_ES": "Ingeniero épico",
+      "fr_FR": "Ingénieur épique",
+      "it_IT": "Ingegnere Epico",
+      "pl_PL": "Epicki inżynier",
+      "pt_PT": "Engenheiro Épico",
+      "ru_RU": "Эпический инженер",
+      "tr_TR": "Epik Mühendis",
+      "ko_KR": "특급 기술자",
+      "zh_TW": "史詩工程師",
+      "zh_CN": "史诗工程师",
+      "ja_JP": "エピック「エンジニア」",
+      "th_TH": "วิศวกรระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006347",
+    "name": {
+      "en_US": "Time Jumper",
+      "es_MX": "Saltatiempos",
+      "pt_BR": "Saltadora Temporal",
+      "de_DE": "Zeitspringerin",
+      "en_GB": "Time Jumper",
+      "es_ES": "Saltatiempos",
+      "fr_FR": "Voyageuse temporelle",
+      "it_IT": "Saltatempo",
+      "pl_PL": "Podróżnik w czasie",
+      "pt_PT": "Saltadora Temporal",
+      "ru_RU": "Путешественница во времени",
+      "tr_TR": "Zaman Sıçrayıcısı",
+      "ko_KR": "시간 여행자",
+      "zh_TW": "時光穿梭者",
+      "zh_CN": "时间跳跃者",
+      "ja_JP": "タイムジャンパー",
+      "th_TH": "นักกระโดดข้ามเวลา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006348",
+    "name": {
+      "en_US": "Heroic Time Jumper",
+      "es_MX": "Saltatiempos heroica",
+      "pt_BR": "Saltadora Temporal Heroica",
+      "de_DE": "Heroische Zeitspringerin",
+      "en_GB": "Heroic Time Jumper",
+      "es_ES": "Saltatiempos heroica",
+      "fr_FR": "Voyageuse temporelle intrépide",
+      "it_IT": "Saltatempo Eroica",
+      "pl_PL": "Heroiczny podróżnik w czasie",
+      "pt_PT": "Saltadora Temporal Heroica",
+      "ru_RU": "Героическая путешественница во времени",
+      "tr_TR": "Kahraman Zaman Sıçrayıcısı",
+      "ko_KR": "영웅 시간 여행자",
+      "zh_TW": "英雄時光穿梭者",
+      "zh_CN": "精英时间跳跃者",
+      "ja_JP": "ヒロイック「タイムジャンパー」",
+      "th_TH": "นักกระโดดข้ามเวลาระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006349",
+    "name": {
+      "en_US": "Epic Time Jumper",
+      "es_MX": "Saltatiempos épica",
+      "pt_BR": "Saltadora Temporal Épica",
+      "de_DE": "Epische Zeitspringerin",
+      "en_GB": "Epic Time Jumper",
+      "es_ES": "Saltatiempos épica",
+      "fr_FR": "Voyageuse temporelle épique",
+      "it_IT": "Saltatempo Epica",
+      "pl_PL": "Epicki podróżnik w czasie",
+      "pt_PT": "Saltadora Temporal Épica",
+      "ru_RU": "Эпическая путешественница во времени",
+      "tr_TR": "Epik Zaman Sıçrayıcısı",
+      "ko_KR": "특급 시간 여행자",
+      "zh_TW": "史詩時光穿梭者",
+      "zh_CN": "史诗时间跳跃者",
+      "ja_JP": "エピック「タイムジャンパー」",
+      "th_TH": "นักกระโดดข้ามเวลาระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634A",
+    "name": {
+      "en_US": "Spider",
+      "es_MX": "Araña",
+      "pt_BR": "Aranha",
+      "de_DE": "Spinne",
+      "en_GB": "Spider",
+      "es_ES": "Araña",
+      "fr_FR": "Araignée",
+      "it_IT": "Ragno",
+      "pl_PL": "Pająk",
+      "pt_PT": "Aranha",
+      "ru_RU": "Паучиха",
+      "tr_TR": "Örümcek",
+      "ko_KR": "거미",
+      "zh_TW": "蜘蛛",
+      "zh_CN": "毒蜘蛛",
+      "ja_JP": "スパイダー",
+      "th_TH": "แมงมุม"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634B",
+    "name": {
+      "en_US": "Heroic Spider",
+      "es_MX": "Araña heroica",
+      "pt_BR": "Aranha Heroica",
+      "de_DE": "Heroische Spinne",
+      "en_GB": "Heroic Spider",
+      "es_ES": "Araña heroica",
+      "fr_FR": "Araignée intrépide",
+      "it_IT": "Ragno Eroico",
+      "pl_PL": "Heroiczny pająk",
+      "pt_PT": "Aranha Heroica",
+      "ru_RU": "Героическая паучиха",
+      "tr_TR": "Kahraman Örümcek",
+      "ko_KR": "영웅 거미",
+      "zh_TW": "英雄蜘蛛",
+      "zh_CN": "精英毒蜘蛛",
+      "ja_JP": "ヒロイック「スパイダー」",
+      "th_TH": "แมงมุมระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634C",
+    "name": {
+      "en_US": "Epic Spider",
+      "es_MX": "Araña épica",
+      "pt_BR": "Aranha Épica",
+      "de_DE": "Epische Spinne",
+      "en_GB": "Epic Spider",
+      "es_ES": "Araña épica",
+      "fr_FR": "Araignée épique",
+      "it_IT": "Ragno Epico",
+      "pl_PL": "Epicki pająk",
+      "pt_PT": "Aranha Épica",
+      "ru_RU": "Эпическая паучиха",
+      "tr_TR": "Epik Örümcek",
+      "ko_KR": "특급 거미",
+      "zh_TW": "史詩蜘蛛",
+      "zh_CN": "史诗毒蜘蛛",
+      "ja_JP": "エピック「スパイダー」",
+      "th_TH": "แมงมุมระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634D",
+    "name": {
+      "en_US": "Champ",
+      "es_MX": "Campeón",
+      "pt_BR": "Campeão",
+      "de_DE": "Champion",
+      "en_GB": "Champ",
+      "es_ES": "Campeón",
+      "fr_FR": "Champion",
+      "it_IT": "Campione",
+      "pl_PL": "Mistrz",
+      "pt_PT": "Campeão",
+      "ru_RU": "Защитник",
+      "tr_TR": "Şampiyon",
+      "ko_KR": "챔피언",
+      "zh_TW": "冠軍",
+      "zh_CN": "冠军",
+      "ja_JP": "チャンピオン",
+      "th_TH": "แชมป์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634E",
+    "name": {
+      "en_US": "Heroic Champ",
+      "es_MX": "Campeón heroico",
+      "pt_BR": "Campeão Heroico",
+      "de_DE": "Heroischer Champion",
+      "en_GB": "Heroic Champ",
+      "es_ES": "Campeón heroico",
+      "fr_FR": "Champion intrépide",
+      "it_IT": "Campione eroico",
+      "pl_PL": "Heroiczny mistrz",
+      "pt_PT": "Campeão Heroico",
+      "ru_RU": "Героический защитник",
+      "tr_TR": "Kahraman Şampiyon",
+      "ko_KR": "영웅 챔피언",
+      "zh_TW": "英雄冠軍",
+      "zh_CN": "精英冠军",
+      "ja_JP": "ヒロイック「チャンピオン」",
+      "th_TH": "แชมป์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000634F",
+    "name": {
+      "en_US": "Epic Champ",
+      "es_MX": "Campeón épico",
+      "pt_BR": "Campeão Épico",
+      "de_DE": "Epischer Champion",
+      "en_GB": "Epic Champ",
+      "es_ES": "Campeón épico",
+      "fr_FR": "Champion épique",
+      "it_IT": "Campione epico",
+      "pl_PL": "Epicki mistrz",
+      "pt_PT": "Campeão Épico",
+      "ru_RU": "Эпический защитник",
+      "tr_TR": "Epik Şampiyon",
+      "ko_KR": "특급 챔피언",
+      "zh_TW": "史詩冠軍",
+      "zh_CN": "史诗冠军",
+      "ja_JP": "エピック「チャンピオン」",
+      "th_TH": "แชมป์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006350",
+    "name": {
+      "en_US": "Scientist",
+      "es_MX": "Científico",
+      "pt_BR": "Cientista",
+      "de_DE": "Wissenschaftler",
+      "en_GB": "Scientist",
+      "es_ES": "Científico",
+      "fr_FR": "Scientifique",
+      "it_IT": "Scienziato",
+      "pl_PL": "Naukowiec",
+      "pt_PT": "Cientista",
+      "ru_RU": "Ученый",
+      "tr_TR": "Bilimci",
+      "ko_KR": "과학자",
+      "zh_TW": "科學家",
+      "zh_CN": "科学家",
+      "ja_JP": "科学者",
+      "th_TH": "นักวิทยาศาสตร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006351",
+    "name": {
+      "en_US": "Heroic Scientist",
+      "es_MX": "Científico heroico",
+      "pt_BR": "Cientista Heroico",
+      "de_DE": "Heroischer Wissenschaftler",
+      "en_GB": "Heroic Scientist",
+      "es_ES": "Científico heroico",
+      "fr_FR": "Scientifique intrépide",
+      "it_IT": "Scienziato Eroico",
+      "pl_PL": "Heroiczny naukowiec",
+      "pt_PT": "Cientista Heroico",
+      "ru_RU": "Героический ученый",
+      "tr_TR": "Kahraman Bilimci",
+      "ko_KR": "영웅 과학자",
+      "zh_TW": "英雄科學家",
+      "zh_CN": "精英科学家",
+      "ja_JP": "ヒロイック「科学者」",
+      "th_TH": "นักวิทยาศาสตร์ระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006352",
+    "name": {
+      "en_US": "Epic Scientist",
+      "es_MX": "Científico épico",
+      "pt_BR": "Cientista Épico",
+      "de_DE": "Epischer Wissenschaftler",
+      "en_GB": "Epic Scientist",
+      "es_ES": "Científico épico",
+      "fr_FR": "Scientifique épique",
+      "it_IT": "Scienziato Epico",
+      "pl_PL": "Epicki naukowiec",
+      "pt_PT": "Cientista Épico",
+      "ru_RU": "Эпический ученый",
+      "tr_TR": "Epik Bilimci",
+      "ko_KR": "특급 과학자",
+      "zh_TW": "史詩科學家",
+      "zh_CN": "史诗科学家",
+      "ja_JP": "エピック「科学者」",
+      "th_TH": "นักวิทยาศาสตร์ระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006353",
+    "name": {
+      "en_US": "Particle Gunner",
+      "es_MX": "Artillera de partículas",
+      "pt_BR": "Atiradora de Partículas",
+      "de_DE": "Partikelkanonierin",
+      "en_GB": "Particle Gunner",
+      "es_ES": "Artillera de partículas",
+      "fr_FR": "Pro des bulles",
+      "it_IT": "Cannoniera Particellare",
+      "pl_PL": "Artylerzystka cząsteczkowa",
+      "pt_PT": "Atiradora de Partículas",
+      "ru_RU": "Наводчица заряженных частиц",
+      "tr_TR": "Parçacık Topçusu",
+      "ko_KR": "입자 포수",
+      "zh_TW": "粒子砲手",
+      "zh_CN": "粒子炮手",
+      "ja_JP": "パーティクル・ガンナー",
+      "th_TH": "จอมยิงพาร์ติเคิล"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006354",
+    "name": {
+      "en_US": "Heroic Particle Gunner",
+      "es_MX": "Artillera de partículas heroica",
+      "pt_BR": "Atiradora de Partículas Heroico",
+      "de_DE": "Heroische Partikelkanonierin",
+      "en_GB": "Heroic Particle Gunner",
+      "es_ES": "Artillera de partículas heroica",
+      "fr_FR": "Pro des bulles intrépide",
+      "it_IT": "Cannoniera Particellare Eroica",
+      "pl_PL": "Heroiczna artylerzystka cząsteczkowa",
+      "pt_PT": "Atiradora de Partículas Heroico",
+      "ru_RU": "Героическая наводчица заряженных частиц",
+      "tr_TR": "Kahraman Parçacık Topçusu",
+      "ko_KR": "영웅 입자 포수",
+      "zh_TW": "英雄粒子砲手",
+      "zh_CN": "精英粒子炮手",
+      "ja_JP": "ヒロイック「パーティクル・ガンナー」",
+      "th_TH": "จอมยิงพาร์ติเคิลระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006355",
+    "name": {
+      "en_US": "Epic Particle Gunner",
+      "es_MX": "Artillera de partículas épica",
+      "pt_BR": "Atiradora de Partículas Épica",
+      "de_DE": "Epische Partikelkanonierin",
+      "en_GB": "Epic Particle Gunner",
+      "es_ES": "Artillera de partículas épica",
+      "fr_FR": "Pro des bulles épique",
+      "it_IT": "Cannoniera Particellare Epica",
+      "pl_PL": "Epicka artylerzystka cząsteczkowa",
+      "pt_PT": "Atiradora de Partículas Épica",
+      "ru_RU": "Эпическая наводчица заряженных частиц",
+      "tr_TR": "Epik Parçacık Topçusu",
+      "ko_KR": "특급 입자 포수",
+      "zh_TW": "史詩粒子砲手",
+      "zh_CN": "史诗粒子炮手",
+      "ja_JP": "エピック「パーティクル・ガンナー」",
+      "th_TH": "จอมยิงพาร์ติเคิลระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006356",
+    "name": {
+      "en_US": "Monk",
+      "es_MX": "Monje",
+      "pt_BR": "Monge",
+      "de_DE": "Mönch",
+      "en_GB": "Monk",
+      "es_ES": "Monje",
+      "fr_FR": "Moine",
+      "it_IT": "Monaco",
+      "pl_PL": "Mnich",
+      "pt_PT": "Monge",
+      "ru_RU": "Монах",
+      "tr_TR": "Keşiş",
+      "ko_KR": "수도사",
+      "zh_TW": "僧侶",
+      "zh_CN": "僧侣",
+      "ja_JP": "僧侶",
+      "th_TH": "นักบวช"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006357",
+    "name": {
+      "en_US": "Heroic Monk",
+      "es_MX": "Monje heroico",
+      "pt_BR": "Monge Heroico",
+      "de_DE": "Heroischer Mönch",
+      "en_GB": "Heroic Monk",
+      "es_ES": "Monje heroico",
+      "fr_FR": "Moine intrépide",
+      "it_IT": "Monaco Eroico",
+      "pl_PL": "Heroiczny mnich",
+      "pt_PT": "Monge Heroico",
+      "ru_RU": "Героический монах",
+      "tr_TR": "Kahraman Keşiş",
+      "ko_KR": "영웅 수도사",
+      "zh_TW": "英雄僧侶",
+      "zh_CN": "精英僧侣",
+      "ja_JP": "ヒロイック「僧侶」",
+      "th_TH": "นักบวชระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006358",
+    "name": {
+      "en_US": "Epic War Machine",
+      "es_MX": "Máquina de guerra épica",
+      "pt_BR": "Máquina de Guerra Épica",
+      "de_DE": "Epische Kriegsmaschine",
+      "en_GB": "Epic War Machine",
+      "es_ES": "Máquina de guerra épica",
+      "fr_FR": "Machine de guerre épique",
+      "it_IT": "Macchina da Guerra Epica",
+      "pl_PL": "Epicka machina wojenna",
+      "pt_PT": "Máquina de Guerra Épica",
+      "ru_RU": "Эпическая боевая машина",
+      "tr_TR": "Epik Savaş Makinesi",
+      "ko_KR": "특급 전쟁 기계",
+      "zh_TW": "史詩戰爭機器",
+      "zh_CN": "史诗战争机器",
+      "ja_JP": "エピック「ウォー・マシン」",
+      "th_TH": "เครื่องจักรสงครามระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006359",
+    "name": {
+      "en_US": "Inti Warrior",
+      "es_MX": "Guerrera de Inti",
+      "pt_BR": "Guerreira Inti",
+      "de_DE": "Inti-Kriegerin",
+      "en_GB": "Inti Warrior",
+      "es_ES": "Guerrera Inti",
+      "fr_FR": "Guerrière d’Inti",
+      "it_IT": "Guerriera Inti",
+      "pl_PL": "Wojownik Inti",
+      "pt_PT": "Guerreira Inti",
+      "ru_RU": "Воительница Инти",
+      "tr_TR": "Inti Savaşçısı",
+      "ko_KR": "인티 전사",
+      "zh_TW": "印提勇士",
+      "zh_CN": "印蒂勇士",
+      "ja_JP": "太陽神の戦士",
+      "th_TH": "นักรบอินติ"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000635A",
+    "name": {
+      "en_US": "Heroic Inti Warrior",
+      "es_MX": "Guerrera de Inti heroica",
+      "pt_BR": "Guerreira Inti Heroica",
+      "de_DE": "Heroische Inti-Kriegerin",
+      "en_GB": "Heroic Inti Warrior",
+      "es_ES": "Guerrera Inti heroica",
+      "fr_FR": "Guerrière d’Inti intrépide",
+      "it_IT": "Guerriera Inti Eroica",
+      "pl_PL": "Heroiczny wojownik Inti",
+      "pt_PT": "Guerreira Inti Heroica",
+      "ru_RU": "Героическая воительница Инти",
+      "tr_TR": "Kahraman Inti Savaşçısı",
+      "ko_KR": "영웅 인티 전사",
+      "zh_TW": "英雄印提勇士",
+      "zh_CN": "精英印蒂勇士",
+      "ja_JP": "ヒロイック「太陽神の戦士」",
+      "th_TH": "นักรบอินติระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x025000000000635B",
+    "name": {
+      "en_US": "Epic Inti Warrior",
+      "es_MX": "Guerrera de Inti épica",
+      "pt_BR": "Guerreira Inti Épica",
+      "de_DE": "Epische Inti-Kriegerin",
+      "en_GB": "Epic Inti Warrior",
+      "es_ES": "Guerrera Inti épica",
+      "fr_FR": "Guerrière d’Inti épique",
+      "it_IT": "Guerriera Inti Epica",
+      "pl_PL": "Epicki wojownik Inti",
+      "pt_PT": "Guerreira Inti Épica",
+      "ru_RU": "Эпическая воительница Инти",
+      "tr_TR": "Epik Inti Savaşçısı",
+      "ko_KR": "특급 인티 전사",
+      "zh_TW": "史詩印提勇士",
+      "zh_CN": "史诗印蒂勇士",
+      "ja_JP": "エピック「太陽神の戦士」",
+      "th_TH": "นักรบอินติระดับสุดยอด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C760",
+      "name": "Progression"
+    }
+  },
+  {
+    "id": "0x0250000000006395",
+    "name": {
+      "en_US": "Gold Open Challenger",
+      "es_MX": "Contendiente de Oro de Fila abierta",
+      "pt_BR": "Desafiante Ouro - Fila Aberta",
+      "de_DE": "Gold-Herausforderer (freie Rollen)",
+      "en_GB": "Gold Open Challenger",
+      "es_ES": "Contendiente Oro (abierta)",
+      "fr_FR": "Adversaire libre Or",
+      "it_IT": "Sfidante Oro coda aperta",
+      "pl_PL": "Złoty pretendent Rywalizacji",
+      "pt_PT": "Desafiante Ouro - Fila Aberta",
+      "ru_RU": "Золотой претендент в открытом режиме",
+      "tr_TR": "Altın Serbest Seçimli Mücadelecisi",
+      "ko_KR": "골드 자유 도전자",
+      "zh_TW": "黃金自由佇列挑戰者",
+      "zh_CN": "黄金开放职责挑战者",
+      "ja_JP": "ゴールド・オープンキュー・チャレンジャー",
+      "th_TH": "ผู้ท้าชิงระบบคิวแบบเปิดระดับโกลด์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D800000000040A1",
+      "name": "Competitive"
+    }
+  },
+  {
+    "id": "0x02500000000063A3",
+    "name": {
+      "en_US": "Gold Role Challenger",
+      "es_MX": "Contendiente de Oro de Fila de roles",
+      "pt_BR": "Desafiante Ouro - Fila por Função",
+      "de_DE": "Gold-Herausforderer (Rollenwahl)",
+      "en_GB": "Gold Role Challenger",
+      "es_ES": "Contendiente Oro (función)",
+      "fr_FR": "Adversaire de rôle Or",
+      "it_IT": "Sfidante Oro coda ruoli",
+      "pl_PL": "Złoty pretendent Dobierania Ról",
+      "pt_PT": "Desafiante Ouro - Fila por Função",
+      "ru_RU": "Золотой претендент игры по ролям",
+      "tr_TR": "Altın Rol Seçmeli Mücadelecisi",
+      "ko_KR": "골드 역할 도전자",
+      "zh_TW": "黃金角色類型挑戰者",
+      "zh_CN": "黄金预设职责挑战者",
+      "ja_JP": "ゴールド・ロールキュー・チャレンジャー",
+      "th_TH": "ผู้ท้าชิงคิวล็อคตำแหน่งระดับโกลด์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D800000000040A1",
+      "name": "Competitive"
+    }
+  },
+  {
+    "id": "0x02500000000063B6",
+    "name": {
+      "en_US": "Gold Sleuth",
+      "es_MX": "Detective Oro",
+      "pt_BR": "Detetive Ouro",
+      "de_DE": "Gold-Detektiv",
+      "en_GB": "Gold Sleuth",
+      "es_ES": "Detective de Oro",
+      "fr_FR": "Détective – Or",
+      "it_IT": "Detective Oro",
+      "pl_PL": "Złoty detektyw",
+      "pt_PT": "Detetive Ouro",
+      "ru_RU": "Золотая ищейка",
+      "tr_TR": "Altın Hafiye",
+      "ko_KR": "골드 탐정",
+      "zh_TW": "黃金偵探",
+      "zh_CN": "黄金神探",
+      "ja_JP": "ゴールド探偵",
+      "th_TH": "นักสืบระดับโกลด์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D800000000040A1",
+      "name": "Competitive"
+    }
+  },
+  {
+    "id": "0x02500000000064D5",
+    "name": {
+      "en_US": "Nulltrooper",
+      "es_MX": "Nulltrooper",
+      "pt_BR": "Combatente",
+      "de_DE": "Nulltrooper",
+      "en_GB": "Nulltrooper",
+      "es_ES": "Unidad de Null",
+      "fr_FR": "Unité zéro",
+      "it_IT": "Assaltatore",
+      "pl_PL": "Szturmownik",
+      "pt_PT": "Combatente",
+      "ru_RU": "Штурмовик",
+      "tr_TR": "Hükümsüz Eri",
+      "ko_KR": "널 섹터 돌격병",
+      "zh_TW": "步槍機兵",
+      "zh_CN": "归零机兵",
+      "ja_JP": "ヌルトルーパー",
+      "th_TH": "นัลทรูปเปอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064D6",
+    "name": {
+      "en_US": "Jumpjet",
+      "es_MX": "Propulsor aéreo",
+      "pt_BR": "Saltador",
+      "de_DE": "Jumpjet",
+      "en_GB": "Jumpjet",
+      "es_ES": "Propulsor",
+      "fr_FR": "Chasseur",
+      "it_IT": "Propulsore",
+      "pl_PL": "Odrzutowiec",
+      "pt_PT": "Saltador",
+      "ru_RU": "Истребитель",
+      "tr_TR": "Dalışçı",
+      "ko_KR": "도약자",
+      "zh_TW": "跳躍機",
+      "zh_CN": "跃动飞空者",
+      "ja_JP": "ジャンプジェット",
+      "th_TH": "จัมป์เจ็ท"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064D7",
+    "name": {
+      "en_US": "Slicer",
+      "es_MX": "Arrasador",
+      "pt_BR": "Dilacerador",
+      "de_DE": "Slicer",
+      "en_GB": "Slicer",
+      "es_ES": "Cercenador",
+      "fr_FR": "Laserateur",
+      "it_IT": "Mutilatore",
+      "pl_PL": "Siekacz",
+      "pt_PT": "Dilacerador",
+      "ru_RU": "Ланцет",
+      "tr_TR": "Biçici",
+      "ko_KR": "절단기",
+      "zh_TW": "切割機兵",
+      "zh_CN": "狂奔切割者",
+      "ja_JP": "スライサー",
+      "th_TH": "สไลเซอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064D8",
+    "name": {
+      "en_US": "Breacher",
+      "es_MX": "Destructora",
+      "pt_BR": "Arrombador",
+      "de_DE": "Breacher",
+      "en_GB": "Breacher",
+      "es_ES": "Ariete",
+      "fr_FR": "Disperseur",
+      "it_IT": "Guastatore",
+      "pl_PL": "Wyłomiarz",
+      "pt_PT": "Arrombador",
+      "ru_RU": "Крушитель",
+      "tr_TR": "Delgeç",
+      "ko_KR": "침투기",
+      "zh_TW": "突襲先鋒",
+      "zh_CN": "震地轰击者",
+      "ja_JP": "ブリーチャー",
+      "th_TH": "บรีชเชอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064D9",
+    "name": {
+      "en_US": "Subjugator",
+      "es_MX": "Subyugadora",
+      "pt_BR": "Subjugador",
+      "de_DE": "Subjugator",
+      "en_GB": "Subjugator",
+      "es_ES": "Subyugador",
+      "fr_FR": "Asservisseur",
+      "it_IT": "Soggiogatore",
+      "pl_PL": "Zniewalacz",
+      "pt_PT": "Subjugador",
+      "ru_RU": "Поработитель",
+      "tr_TR": "Yıldıran",
+      "ko_KR": "제압자",
+      "zh_TW": "壓制者",
+      "zh_CN": "夺魂抑制者",
+      "ja_JP": "サブジュゲーター",
+      "th_TH": "ซับจูเกเตอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064DA",
+    "name": {
+      "en_US": "Vulture",
+      "es_MX": "Buitre",
+      "pt_BR": "Abutre",
+      "de_DE": "Vulture",
+      "en_GB": "Vulture",
+      "es_ES": "Buitre",
+      "fr_FR": "Vautour",
+      "it_IT": "Avvoltoio",
+      "pl_PL": "Sęp",
+      "pt_PT": "Abutre",
+      "ru_RU": "Коршун",
+      "tr_TR": "Akbaba",
+      "ko_KR": "벌처",
+      "zh_TW": "禿鷹",
+      "zh_CN": "沉默秃鹫机",
+      "ja_JP": "バルチャー",
+      "th_TH": "วัลเจอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064DB",
+    "name": {
+      "en_US": "Charger﻿",
+      "es_MX": "Unidad de choque",
+      "pt_BR": "Agressor﻿",
+      "de_DE": "Charger",
+      "en_GB": "Charger﻿",
+      "es_ES": "Embestidor",
+      "fr_FR": "Chargeur",
+      "it_IT": "Inseguitore",
+      "pl_PL": "Szarżownik﻿",
+      "pt_PT": "Agressor﻿",
+      "ru_RU": "Скакун",
+      "tr_TR": "Atılgan﻿",
+      "ko_KR": "돌격투사",
+      "zh_TW": "衝鋒兵",
+      "zh_CN": "无畏冲锋者",
+      "ja_JP": "チャージャー",
+      "th_TH": "ชาร์จเจอร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x02500000000064DC",
+    "name": {
+      "en_US": "Null Titan",
+      "es_MX": "Titán Null",
+      "pt_BR": "Titã Nulo",
+      "de_DE": "Null Titan",
+      "en_GB": "Null Titan",
+      "es_ES": "Titan Null",
+      "fr_FR": "Titan zéro",
+      "it_IT": "Titano Zero",
+      "pl_PL": "Tytan Zero",
+      "pt_PT": "Titã Nulo",
+      "ru_RU": "Нуль-титан",
+      "tr_TR": "Hükümsüz Titan",
+      "ko_KR": "널 섹터 타이탄",
+      "zh_TW": "零度泰坦機兵",
+      "zh_CN": "归零泰坦",
+      "ja_JP": "ヌルタイタン",
+      "th_TH": "นัลไททัน"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x025000000000652A",
+    "name": {
+      "en_US": "Underworld Guardian",
+      "es_MX": "Guardián del bajo mundo",
+      "pt_BR": "Guarda do Subterrâneo",
+      "de_DE": "Unterwelt-Wächter",
+      "en_GB": "Underworld Guardian",
+      "es_ES": "Vigilante de los Bajos Fondos",
+      "fr_FR": "Pilier de l’Underworld",
+      "it_IT": "Custode dei Bassifondi",
+      "pl_PL": "Strażnik Podziemia",
+      "pt_PT": "Guarda do Subterrâneo",
+      "ru_RU": "Страж Подземного мира",
+      "tr_TR": "Ahiret Muhafızı",
+      "ko_KR": "지하 세계 수호자",
+      "zh_TW": "底城區守護者",
+      "zh_CN": "地下世界守护者",
+      "ja_JP": "アンダーワールド・ガーディアン",
+      "th_TH": "ผู้พิทักษ์อันเดอร์เวิลด์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x0250000000006581",
+    "name": {
+      "en_US": "Nullifier",
+      "es_MX": "Anulador",
+      "pt_BR": "Nulificador",
+      "de_DE": "Nullifizierer",
+      "en_GB": "Nullifier",
+      "es_ES": "Anulador",
+      "fr_FR": "Zéro-fication",
+      "it_IT": "Nullificatore",
+      "pl_PL": "Eliminator Zero",
+      "pt_PT": "Nulificador",
+      "ru_RU": "Обнулитель",
+      "tr_TR": "Hükümsüzleştiren",
+      "ko_KR": "널 섹터의 천적",
+      "zh_TW": "零度毀滅者",
+      "zh_CN": "铁腕归零者",
+      "ja_JP": "ヌリファイア",
+      "th_TH": "นัลลิไฟเออร์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001BA",
+      "name": "2.6.0.0 - BP Season 6",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000C0C9",
+      "name": "Season 6"
+    }
+  },
+  {
+    "id": "0x0250000000006624",
+    "name": {
+      "en_US": "Hero Master",
+      "es_MX": "Maestro de héroes",
+      "pt_BR": "Mestre de Heróis",
+      "de_DE": "Heldenmeister",
+      "en_GB": "Hero Master",
+      "es_ES": "Maestro de héroes",
+      "fr_FR": "Talent héroïque",
+      "it_IT": "Maestro degli eroi",
+      "pl_PL": "Mistrz Bohaterów",
+      "pt_PT": "Mestre de Heróis",
+      "ru_RU": "Герой-мастер",
+      "tr_TR": "Kahraman Sarrafı",
+      "ko_KR": "영웅 마스터",
+      "zh_TW": "專精英雄",
+      "zh_CN": "英雄大师",
+      "ja_JP": "ヒーロー・マスター",
+      "th_TH": "ผู้เชี่ยวชาญฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001D2",
+      "name": "2.6.1 - S6 Midcycle Content",
+      "version": 2.6
+    },
+    "event": {
+      "id": "0x0D8000000000CB01",
+      "name": "Hero Mastery"
+    }
+  }
+]
