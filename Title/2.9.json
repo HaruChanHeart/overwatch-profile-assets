@@ -1,45 +1,5 @@
 [
   {
-    "id": "0x0250000000006B2D",
-    "name": {
-      "en_US": "Betrayer",
-      "es_MX": "Traidor",
-      "pt_BR": "Traidor",
-      "de_DE": "Verräter",
-      "en_GB": "Betrayer",
-      "es_ES": "Desleal",
-      "fr_FR": "Traître",
-      "it_IT": "Traditore",
-      "pl_PL": "Zdrajca",
-      "pt_PT": "Traidor",
-      "ru_RU": "Предатель",
-      "tr_TR": "Hain",
-      "ko_KR": "배신자",
-      "zh_TW": "背叛者",
-      "zh_CN": "背叛之徒",
-      "ja_JP": "背信者",
-      "th_TH": "จอมทรยศ"
-    },
-    "type": {
-      "id": null,
-      "name": "STUUnlock_PlayerTitle"
-    },
-    "rarity": "COMMON",
-    "hero": {
-      "id": null,
-      "name": null
-    },
-    "release": {
-      "id": "0x0F100000000001D5",
-      "name": "2.9.0.0 - BP Season 9",
-      "version": 2.9
-    },
-    "event": {
-      "id": "0x0D8000000000CEC0",
-      "name": "Season 9"
-    }
-  },
-  {
     "id": "0x0250000000006B2E",
     "name": {
       "en_US": "Haunted Shadow",
