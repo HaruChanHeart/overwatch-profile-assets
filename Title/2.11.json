@@ -278,5 +278,85 @@
       "id": "0x0D8000000000D745",
       "name": "Season 11"
     }
+  },
+  {
+    "id": "0x025000000000733E",
+    "name": {
+      "en_US": "Heroic Autobot",
+      "es_MX": "Autobot heroico",
+      "pt_BR": "Autobot Heroico",
+      "de_DE": "Heroischer Autobot",
+      "en_GB": "Heroic Autobot",
+      "es_ES": "Autobot heroico",
+      "fr_FR": "Autobot intrépide",
+      "it_IT": "Autobot Eroico",
+      "pl_PL": "Heroiczny autobot",
+      "pt_PT": "Autobot Heroico",
+      "ru_RU": "Героический автобот",
+      "tr_TR": "Kahraman Otobot",
+      "ko_KR": "영웅 오토봇",
+      "zh_TW": "博派英雄",
+      "zh_CN": "英勇的汽车人",
+      "ja_JP": "オートボットの英雄",
+      "th_TH": "ออโต้บอทระดับฮีโร่"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001ED",
+      "name": "2.11.1 - Rollout Collab",
+      "version": 2.11
+    },
+    "event": {
+      "id": "0x0D8000000000D745",
+      "name": "Season 11"
+    }
+  },
+  {
+    "id": "0x025000000000733F",
+    "name": {
+      "en_US": "Decepticon Gladiator",
+      "es_MX": "Gladiador Decepticon",
+      "pt_BR": "Gladiador Decepticon",
+      "de_DE": "Gladiator der Decepticons",
+      "en_GB": "Decepticon Gladiator",
+      "es_ES": "Gladiador Decepticon",
+      "fr_FR": "Decepticon gladiateur",
+      "it_IT": "Decepticon Gladiatore",
+      "pl_PL": "Gladiator Decepticonów",
+      "pt_PT": "Gladiador Decepticon",
+      "ru_RU": "Десептикон-гладиатор",
+      "tr_TR": "<en>Decepticon</en> Gladyatör",
+      "ko_KR": "디셉티콘 검투사",
+      "zh_TW": "狂派鬥士",
+      "zh_CN": "霸天虎角斗士",
+      "ja_JP": "ディセプティコンの戦士",
+      "th_TH": "กลาดิเอเตอร์ดีเซปติคอน"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001ED",
+      "name": "2.11.1 - Rollout Collab",
+      "version": 2.11
+    },
+    "event": {
+      "id": "0x0D8000000000D745",
+      "name": "Season 11"
+    }
   }
 ]
