@@ -518,5 +518,125 @@
       "id": "0x0D8000000000D748",
       "name": "Season 12"
     }
+  },
+  {
+    "id": "0x02500000000078E3",
+    "name": {
+      "en_US": "Alliance Champion",
+      "es_MX": "Campeón de la Alianza",
+      "pt_BR": "Campeão da Aliança",
+      "de_DE": "Champion der Allianz",
+      "en_GB": "Alliance Champion",
+      "es_ES": "Campeón de la Alianza",
+      "fr_FR": "Prodige de l’Alliance",
+      "it_IT": "Campione dell'Alleanza",
+      "pl_PL": "Czempion Przymierza",
+      "pt_PT": "Campeão da Aliança",
+      "ru_RU": "Чемпион Альянса",
+      "tr_TR": "İttifak Şampiyonu",
+      "ko_KR": "얼라이언스 챔피언",
+      "zh_TW": "聯盟勇士",
+      "zh_CN": "联盟勇士",
+      "ja_JP": "アライアンスの勇者",
+      "th_TH": "แชมเปี้ยนพันธมิตร"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001EF",
+      "name": "2.12.1 - WoW Collab",
+      "version": 2.12
+    },
+    "event": {
+      "id": "0x0D8000000000D748",
+      "name": "Season 12"
+    }
+  },
+  {
+    "id": "0x02500000000078E4",
+    "name": {
+      "en_US": "Horde Champion",
+      "es_MX": "Campeón de la Horda",
+      "pt_BR": "Campeão da Horda",
+      "de_DE": "Champion der Horde",
+      "en_GB": "Horde Champion",
+      "es_ES": "Campeón de la Horda",
+      "fr_FR": "Prodige de la Horde",
+      "it_IT": "Campione dell'Orda",
+      "pl_PL": "Czempion Hordy",
+      "pt_PT": "Campeão da Horda",
+      "ru_RU": "Чемпион Орды",
+      "tr_TR": "Horda Şampiyonu",
+      "ko_KR": "호드 챔피언",
+      "zh_TW": "部落勇士",
+      "zh_CN": "部落勇士",
+      "ja_JP": "ホードの勇者",
+      "th_TH": "แชมเปี้ยนชนเผ่า"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001EF",
+      "name": "2.12.1 - WoW Collab",
+      "version": 2.12
+    },
+    "event": {
+      "id": "0x0D8000000000D748",
+      "name": "Season 12"
+    }
+  },
+  {
+    "id": "0x02500000000078FB",
+    "name": {
+      "en_US": "Hero of 2024",
+      "es_MX": "Héroe de 2024",
+      "pt_BR": "Herói de 2024",
+      "de_DE": "Held 2024",
+      "en_GB": "Hero of 2024",
+      "es_ES": "Adalid de 2024",
+      "fr_FR": "Héroïsme de 2024",
+      "it_IT": "Eroe del 2024",
+      "pl_PL": "Bohater roku 2024",
+      "pt_PT": "Herói de 2024",
+      "ru_RU": "Герой 2024",
+      "tr_TR": "2024'ün Kahramanı",
+      "ko_KR": "2024년의 영웅",
+      "zh_TW": "2024年英雄",
+      "zh_CN": "2024英雄",
+      "ja_JP": "2024年代表ヒーロー",
+      "th_TH": "ฮีโร่แห่งปี 2024"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E2",
+      "name": "2.12.1 - Season 12 Midcycle",
+      "version": 2.12
+    },
+    "event": {
+      "id": "0x0D8000000000D748",
+      "name": "Season 12"
+    }
   }
 ]
