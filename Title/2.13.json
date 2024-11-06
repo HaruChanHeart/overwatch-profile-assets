@@ -1,0 +1,362 @@
+[
+  {
+    "id": "0x0250000000007B45",
+    "name": {
+      "en_US": "Sorcerer",
+      "es_MX": "Hechicera",
+      "pt_BR": "Feiticeira",
+      "de_DE": "Zauberer",
+      "en_GB": "Sorcerer",
+      "es_ES": "Hechicera",
+      "fr_FR": "Sciences occultes",
+      "it_IT": "Arcanista",
+      "pl_PL": "Czarodziej",
+      "pt_PT": "Feiticeira",
+      "ru_RU": "Колдун",
+      "tr_TR": "Büyücü",
+      "ko_KR": "마술사",
+      "zh_TW": "術士",
+      "zh_CN": "幽影巫师",
+      "ja_JP": "魔法使い",
+      "th_TH": "จอมมนตรา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B46",
+    "name": {
+      "en_US": "Bog Witch",
+      "es_MX": "Bruja del pantano",
+      "pt_BR": "Bruxa do Pântano",
+      "de_DE": "Sumpfhexe",
+      "en_GB": "Bog Witch",
+      "es_ES": "Bruja de la ciénaga",
+      "fr_FR": "Esprit des marais",
+      "it_IT": "Strega della Palude",
+      "pl_PL": "Bagienna wiedźma",
+      "pt_PT": "Bruxa do Pântano",
+      "ru_RU": "Болотная ведьма",
+      "tr_TR": "Bataklık Cadısı",
+      "ko_KR": "늪지 마녀",
+      "zh_TW": "沼澤女巫",
+      "zh_CN": "沼泽女巫",
+      "ja_JP": "沼の魔女",
+      "th_TH": "แม่มดแห่งบึง"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B47",
+    "name": {
+      "en_US": "Potion Seller",
+      "es_MX": "Vendedor de pociones",
+      "pt_BR": "Comerciante de Poções",
+      "de_DE": "Trankverkäufer",
+      "en_GB": "Potion Seller",
+      "es_ES": "Vendedor de pociones",
+      "fr_FR": "Alchimiste",
+      "it_IT": "Mercante di Pozioni",
+      "pl_PL": "Sprzedawca mikstur",
+      "pt_PT": "Comerciante de Poções",
+      "ru_RU": "Продавец зелий",
+      "tr_TR": "İksir Satıcısı",
+      "ko_KR": "물약 장수",
+      "zh_TW": "藥水商",
+      "zh_CN": "魔药商人",
+      "ja_JP": "霊薬売り",
+      "th_TH": "คนขายน้ำยา"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B48",
+    "name": {
+      "en_US": "Witch's Familiar",
+      "es_MX": "Familiar de la bruja",
+      "pt_BR": "Familiar de Bruxa",
+      "de_DE": "Hexenkatze",
+      "en_GB": "Witch's Familiar",
+      "es_ES": "Familiar de bruja",
+      "fr_FR": "Familier magique",
+      "it_IT": "Famiglio della Strega",
+      "pl_PL": "Diablik wiedźmy",
+      "pt_PT": "Familiar de Bruxa",
+      "ru_RU": "ведьмаведьмаведьмаведьмаведьмаВедьмин фамильяр",
+      "tr_TR": "Cadı Uşağı",
+      "ko_KR": "마녀의 사역마",
+      "zh_TW": "女巫魔寵",
+      "zh_CN": "女巫魔宠",
+      "ja_JP": "使い魔",
+      "th_TH": "สมุนแม่มด"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B49",
+    "name": {
+      "en_US": "Unlucky Omen",
+      "es_MX": "Presagio de mala suerte",
+      "pt_BR": "Presságio Desafortunado",
+      "de_DE": "Böses Omen",
+      "en_GB": "Unlucky Omen",
+      "es_ES": "Presagio de infortunio",
+      "fr_FR": "Mauvais présage",
+      "it_IT": "Presagio Infausto",
+      "pl_PL": "Zły omen",
+      "pt_PT": "Presságio Desafortunado",
+      "ru_RU": "Несчастливое знамение",
+      "tr_TR": "Kötüye Alamet",
+      "ko_KR": "불행의 징조",
+      "zh_TW": "不祥之兆",
+      "zh_CN": "不祥之兆",
+      "ja_JP": "凶兆",
+      "th_TH": "ลางร้าย"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B4A",
+    "name": {
+      "en_US": "Kitten of Discord",
+      "es_MX": "Gatito de la discordia",
+      "pt_BR": "Filhote da Discórdia",
+      "de_DE": "Kätzchen der Zwietracht",
+      "en_GB": "Kitten of Discord",
+      "es_ES": "Gato de discordia",
+      "fr_FR": "Chaton de la discorde",
+      "it_IT": "Micio della Discordia",
+      "pl_PL": "Kocur niezgody",
+      "pt_PT": "Filhote da Discórdia",
+      "ru_RU": "Котенок раздора",
+      "tr_TR": "Kaos Kediciği",
+      "ko_KR": "부조화의 고양이",
+      "zh_TW": "紛亂貓貓",
+      "zh_CN": "引祸猫咪",
+      "ja_JP": "不吉の子猫",
+      "th_TH": "น้องเหมียวแห่งความขัดแย้ง"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B4B",
+    "name": {
+      "en_US": "Spellbinder",
+      "es_MX": "Hechicería",
+      "pt_BR": "Feitiçaria",
+      "de_DE": "Zauberweberin",
+      "en_GB": "Spellbinder",
+      "es_ES": "Hechizante",
+      "fr_FR": "Sorcellerie",
+      "it_IT": "Stregonerie",
+      "pl_PL": "Czarodziejka",
+      "pt_PT": "Feitiçaria",
+      "ru_RU": "Заклинательница",
+      "tr_TR": "Büyü Bağcısı",
+      "ko_KR": "주문술사",
+      "zh_TW": "縛法者",
+      "zh_CN": "缚法魔巫",
+      "ja_JP": "スペルバインダー",
+      "th_TH": "จอมขมังเวทย์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B5F",
+    "name": {
+      "en_US": "Quirkless",
+      "es_MX": "Sin don",
+      "pt_BR": "Sem Individualidade",
+      "de_DE": "Ohne Spezialität",
+      "en_GB": "Quirkless",
+      "es_ES": "Sin don",
+      "fr_FR": "Sans Alter",
+      "it_IT": "Senza Quirk",
+      "pl_PL": "Nieobdarzony",
+      "pt_PT": "Sem Individualidade",
+      "ru_RU": "Беспричудность",
+      "tr_TR": "Sıradan",
+      "ko_KR": "무개성",
+      "zh_TW": "無個性",
+      "zh_CN": "无个性者",
+      "ja_JP": "無個性",
+      "th_TH": "ไร้อัตลักษณ์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001F1",
+      "name": "2.13.0 - Heroes Collab",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007B8A",
+    "name": {
+      "en_US": "Mutated Monster",
+      "es_MX": "Monstruo mutado",
+      "pt_BR": "Monstro Mutante",
+      "de_DE": "Mutantenmonstrum",
+      "en_GB": "Mutated Monster",
+      "es_ES": "Monstruo mutante",
+      "fr_FR": "Monstre mutant",
+      "it_IT": "Mostro mutante",
+      "pl_PL": "Monstrualny mutant",
+      "pt_PT": "Monstro Mutante",
+      "ru_RU": "Мутировавшее чудовище",
+      "tr_TR": "Mutant Canavar",
+      "ko_KR": "변이된 괴물",
+      "zh_TW": "突變怪物",
+      "zh_CN": "异变怪物",
+      "ja_JP": "恐怖の改造生命体",
+      "th_TH": "สัตว์ประหลาดกลายพันธุ์"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E3",
+      "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  }
+]
