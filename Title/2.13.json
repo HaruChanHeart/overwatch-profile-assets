@@ -3,7 +3,7 @@
     "id": "0x0250000000007B45",
     "name": {
       "en_US": "Sorcerer",
-      "es_MX": "Hechicera",
+      "es_MX": "Hechicero",
       "pt_BR": "Feiticeira",
       "de_DE": "Zauberer",
       "en_GB": "Sorcerer",
@@ -132,7 +132,7 @@
       "it_IT": "Famiglio della Strega",
       "pl_PL": "Diablik wiedźmy",
       "pt_PT": "Familiar de Bruxa",
-      "ru_RU": "ведьмаведьмаведьмаведьмаведьмаВедьмин фамильяр",
+      "ru_RU": "Ведьмин фамильяр",
       "tr_TR": "Cadı Uşağı",
       "ko_KR": "마녀의 사역마",
       "zh_TW": "女巫魔寵",
@@ -249,7 +249,7 @@
       "en_GB": "Spellbinder",
       "es_ES": "Hechizante",
       "fr_FR": "Sorcellerie",
-      "it_IT": "Stregonerie",
+      "it_IT": "Fattucchiera",
       "pl_PL": "Czarodziejka",
       "pt_PT": "Feitiçaria",
       "ru_RU": "Заклинательница",
@@ -288,7 +288,7 @@
       "de_DE": "Ohne Spezialität",
       "en_GB": "Quirkless",
       "es_ES": "Sin don",
-      "fr_FR": "Sans Alter",
+      "fr_FR": "Sans-Alter",
       "it_IT": "Senza Quirk",
       "pl_PL": "Nieobdarzony",
       "pt_PT": "Sem Individualidade",
@@ -352,6 +352,46 @@
     "release": {
       "id": "0x0F100000000001E3",
       "name": "2.13.0 - Season 13",
+      "version": 2.13
+    },
+    "event": {
+      "id": "0x0D8000000000D749",
+      "name": "Season 13"
+    }
+  },
+  {
+    "id": "0x0250000000007C7D",
+    "name": {
+      "en_US": "6v6 Enthusiast",
+      "es_MX": "Entusiasta 6c6",
+      "pt_BR": "Entusiasta de 6v6",
+      "de_DE": "6v6-Fan",
+      "en_GB": "6v6 Enthusiast",
+      "es_ES": "Entusiasta de 6c6",
+      "fr_FR": "Enthousiaste du 6c6",
+      "it_IT": "Entusiasta del 6v6",
+      "pl_PL": "Pasjonat 6 na 6",
+      "pt_PT": "Entusiasta de 6v6",
+      "ru_RU": "Фанат 6х6",
+      "tr_TR": "6v6 Tutkunu",
+      "ko_KR": "6대6 애호가",
+      "zh_TW": "6v6粉絲",
+      "zh_CN": "6v6爱好者",
+      "ja_JP": "6v6愛好家",
+      "th_TH": "แฟนพันธุ์แท้ 6v6"
+    },
+    "type": {
+      "id": null,
+      "name": "STUUnlock_PlayerTitle"
+    },
+    "rarity": "COMMON",
+    "hero": {
+      "id": null,
+      "name": null
+    },
+    "release": {
+      "id": "0x0F100000000001E4",
+      "name": "2.13.1 - Season 13 Midcycle",
       "version": 2.13
     },
     "event": {
